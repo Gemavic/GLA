@@ -1,0 +1,2032 @@
+[
+  {
+    "year": 2014,
+    "subject": "english",
+    "q_num": 1,
+    "text": "In the past his father used to walk but nowadays he \u2026\u2026\u2026to",
+    "options": [
+      "giving",
+      "is going",
+      "seldomly goes",
+      "goes",
+      "has gone"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2014,
+    "subject": "english",
+    "q_num": 2,
+    "text": "\u2026\u2026It might not look such a rosy proposition",
+    "options": [
+      "from   his viewing proposal",
+      "when he views the proposal",
+      "having viewed the proposal",
+      "from his paint of view",
+      "from his seeing it"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2014,
+    "subject": "english",
+    "q_num": 4,
+    "text": "Don't study on the examination day What find he tell you? He told me\u2026\u2026on the examination day",
+    "options": [
+      "no studying",
+      "don't study",
+      "not study",
+      "not to study",
+      "to not study"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2014,
+    "subject": "english",
+    "q_num": 17,
+    "text": "The driver wll all the students interested to going to lagos tomorrow at 7.0Oam outside the main building",
+    "options": [
+      "lift",
+      "lift up",
+      "pick",
+      "pick up",
+      "pick up"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2014,
+    "subject": "english",
+    "q_num": 18,
+    "text": "The govemment is making cancerted efforts at providing essential social facilities in the rural areas",
+    "options": [
+      "dissipated",
+      "unconcerted",
+      "unsuccessful",
+      "uncontrolled",
+      "uncontrolled"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2014,
+    "subject": "english",
+    "q_num": 19,
+    "text": "Wecannot but talk about his invaluable contributions to the affaire of the society",
+    "options": [
+      "worthless",
+      "cost",
+      "unrecognized",
+      "incalculable",
+      "incalculable"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2014,
+    "subject": "english",
+    "q_num": 20,
+    "text": "Men living in an extended family know that they have to be responsible for the ware fare of some other person's",
+    "options": [
+      "externals",
+      "nuclear",
+      "neutral",
+      "contracted",
+      "contracted"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2014,
+    "subject": "physics",
+    "q_num": 11,
+    "text": "00 am|\u2026\u2026\u2026it for three hours.",
+    "options": [
+      "aircraft or by road",
+      "airways or by bus",
+      "air or by road",
+      "flight or by bus",
+      "flight or by bus"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2014,
+    "subject": "physics",
+    "q_num": 12,
+    "text": "you can talk to her",
+    "options": [
+      "you  are  permitted  to  talk  to  her",
+      "you must talk toher",
+      "you mustn't talk to her",
+      "nothing  prevents you from talking to her",
+      "nothing  prevents you from talking to her"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2014,
+    "subject": "physics",
+    "q_num": 14,
+    "text": "Ebun \u2026\u2026the edge of the cliff after his shoes had called to grip",
+    "options": [
+      "fel  down",
+      "fell  off",
+      "fell  away",
+      "fell  from",
+      "fell  from"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2014,
+    "subject": "physics",
+    "q_num": 16,
+    "text": "I know you think lam talking nonsense,Shehu,but \u2026\u2026\u2026",
+    "options": [
+      "at one time",
+      "on time",
+      "in time",
+      "all  times",
+      "all  times"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2015,
+    "subject": "chemistry",
+    "q_num": 16,
+    "text": "A block of material vdlume 20cm\u00b2and density 2.3g/cm\u00b3is",
+    "options": [
+      "8g",
+      "25g.",
+      "30g",
+      "40g",
+      "50g"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2015,
+    "subject": "chemistry",
+    "q_num": 41,
+    "text": "Complete hydrogenation of oils results in the production of",
+    "options": [
+      "soaps",
+      "detergent",
+      "alkalines",
+      "butter F.margarine.",
+      "butter F.margarine."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2015,
+    "subject": "chemistry",
+    "q_num": 42,
+    "text": "Asample of orange juice is suspected to have been",
+    "options": [
+      "decantation",
+      "distillation",
+      "filtration",
+      "evaporation",
+      "evaporation"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2015,
+    "subject": "mathematics",
+    "q_num": 21,
+    "text": "Simplify:125\u221a\u00b3x4\u2074\u00b2\u00d710\u00b0",
+    "options": [
+      "350",
+      "35",
+      "\u00b9/a\u2083",
+      "\u00b9/aso",
+      "0 22.If3\u00b2*=27,what  is  x?"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2015,
+    "subject": "mathematics",
+    "q_num": 26,
+    "text": "The population of a village is 5846.Express this number to three significant figures",
+    "options": [
+      "5850",
+      "5846",
+      "5840",
+      "585",
+      "585"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2015,
+    "subject": "mathematics",
+    "q_num": 28,
+    "text": "For what value of yis the expression (y+2)/(y\u00b2-Sy-10 undefined?",
+    "options": [
+      "y=0",
+      "y=2",
+      "y=3",
+      "y=5",
+      "y=i0"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2015,
+    "subject": "mathematics",
+    "q_num": 31,
+    "text": "Evaluate(101.2)\u00b2-(100.5)\u00b0",
+    "options": [
+      "2.02",
+      "20.02",
+      "141.19",
+      "202",
+      "202"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2015,
+    "subject": "mathematics",
+    "q_num": 32,
+    "text": "Express the product of 0.06 and 0.09 in standard form",
+    "options": [
+      "5.4\u00d710\u00b2",
+      "5.4\u00d710\u00b2",
+      "5.4\u00d710\u2076",
+      "5.4\u00d710\u00b2",
+      "5.4\u00d710\u00b3"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2015,
+    "subject": "mathematics",
+    "q_num": 33,
+    "text": "Simplify(36)V\u00b2x5\u00b0",
+    "options": [
+      "3/4",
+      "1/24",
+      "2/3",
+      "11/2",
+      "2029"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2015,
+    "subject": "mathematics",
+    "q_num": 34,
+    "text": "If cos(",
+    "options": [
+      "=3 which of the fallowing angles has a cosine- k?",
+      "30\u00b08.120\u00b0\u2103.150\u00b0",
+      "210\u00b0",
+      "330\u00b0",
+      "330\u00b0"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2015,
+    "subject": "mathematics",
+    "q_num": 35,
+    "text": "Aladder 9m long leans against a vertical wail making an",
+    "options": [
+      "4.0m",
+      "5.8m",
+      "7.1m",
+      "8.1m",
+      "18cm"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2015,
+    "subject": "mathematics",
+    "q_num": 36,
+    "text": "Lf3lbg a+5 loga-\u00f3 log a.What is a",
+    "options": [
+      "18.",
+      "6.",
+      "G.16",
+      "32",
+      "32"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2015,
+    "subject": "mathematics",
+    "q_num": 37,
+    "text": "If the second and fourth temms of a geometrical progression are Band 32 respectively,what is the sum of the four terms?",
+    "options": [
+      "28",
+      "40",
+      "48",
+      "60",
+      "68"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2015,
+    "subject": "mathematics",
+    "q_num": 39,
+    "text": "",
+    "options": [
+      "7.4x10\u00b2",
+      "7.5\u00d710\u00b9",
+      "7.5x10\u00b9",
+      "7.5\u00d710\u00b2",
+      "7.5\u00d710\u00b2"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2015,
+    "subject": "mathematics",
+    "q_num": 40,
+    "text": "Factorize the following expressiont 2x\u00b2+x-15.",
+    "options": [
+      "(2x+5) (y-3)",
+      "(2x-5)(y+3)",
+      "(2x-5)(x-3)",
+      "(2x-3)(x+5)",
+      "(2x+5)"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2015,
+    "subject": "physics",
+    "q_num": 3,
+    "text": "How much heat s given out vhenapiece of iron mass 50g and specific heat capacity 460/kg/Kcoolsfrom 85\u00b0c to 25\u00b0c?",
+    "options": [
+      "1.38x10\u2076J",
+      "2.53x10\u00b2",
+      "1.98\u00d710\u00b2]",
+      "1.38\u00d710\u00b3",
+      "1.38\u00d710\u00b3"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2015,
+    "subject": "physics",
+    "q_num": 4,
+    "text": "Which of the following is not a suitable method of reducing loss of heat from a piece of hot iron?",
+    "options": [
+      "wrapping it in cotton wool",
+      "paintingit black",
+      "placing it in a vacuum",
+      "placing it in a",
+      "placing it in a"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2015,
+    "subject": "physics",
+    "q_num": 5,
+    "text": "A bat emits a sound wave at a speed of 1650.00m/s and",
+    "options": [
+      "8.75m",
+      "87.75m",
+      "123.75m",
+      "330.00m",
+      "330.00m"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2015,
+    "subject": "physics",
+    "q_num": 6,
+    "text": "Which ofthe following is/are characteristics of sound?i. pitch ii Loudness iii.Quality iv.Noise",
+    "options": [
+      "I only",
+      "ii only",
+      "I &ii  only",
+      "I,ii  &ii  only",
+      "i,ii,iii  and  iv"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2015,
+    "subject": "physics",
+    "q_num": 7,
+    "text": "An image which can be formed on a screen is said to be",
+    "options": [
+      "virtual",
+      "blurred",
+      "inverted",
+      "erect",
+      "real"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2015,
+    "subject": "physics",
+    "q_num": 8,
+    "text": "A ray of light isincident at an angle of 30 on aglass prism",
+    "options": [
+      "10.5\u00b0",
+      "5.5\u00b0",
+      "21.1\u00b0",
+      "38.9\u00b0",
+      "40.5\u00b0"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2015,
+    "subject": "physics",
+    "q_num": 10,
+    "text": "What of the camera corresponds to the iris of the eye?",
+    "options": [
+      "shutter",
+      "film",
+      "lens",
+      "diaphragm",
+      "focusing  ring"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2015,
+    "subject": "physics",
+    "q_num": 13,
+    "text": "Ball is thrown vertically upwards from the ground with an initial velocity of 50m/s.What is the total time spent by the ball in air?(g=10m/s)",
+    "options": [
+      "2.5s",
+      "5.0s",
+      "10.0s",
+      "15.0s",
+      "20.0s"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2015,
+    "subject": "physics",
+    "q_num": 18,
+    "text": "Which of the folowing is derived unit?",
+    "options": [
+      "meter",
+      "coulomb",
+      "kilogram",
+      "second",
+      "ampere"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2015,
+    "subject": "physics",
+    "q_num": 120,
+    "text": "00w",
+    "options": [
+      "3000.00w",
+      "333.00w",
+      "300.00w",
+      "30.00w",
+      "30.00w"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2016,
+    "subject": "chemistry",
+    "q_num": 42,
+    "text": "The charge carriers in gases are",
+    "options": [
+      "ions only",
+      "electrons only",
+      "electrons and ions",
+      "protons only",
+      "protons only"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2016,
+    "subject": "mathematics",
+    "q_num": 4,
+    "text": "What is the probability that an integer x,(1<x<20) 13.In how many ways can 2 students be selected from a group",
+    "options": [
+      "1/20",
+      "1/3                           of 5 students in a debating competition?",
+      "10 ways",
+      "15",
+      "15"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2016,
+    "subject": "mathematics",
+    "q_num": 5,
+    "text": "Find p,4516-P\u2087=3056",
+    "options": [
+      "117\u2087",
+      "1147",
+      "116\u2087",
+      "115\u2087                                        14.If the interest on N150.00 far 2%yrs is N4.50.Find the",
+      "115\u2087                                        14.If the interest on N150.00 far 2%yrs is N4.50.Find the"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2016,
+    "subject": "mathematics",
+    "q_num": 17,
+    "text": "Find the sum of the first 20 term of the series 8,12.1696",
+    "options": [
+      "1400",
+      "1500",
+      "1040",
+      "960",
+      "960"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2016,
+    "subject": "mathematics",
+    "q_num": 18,
+    "text": "Given the series 24.6 find the 4 term of the GP",
+    "options": [
+      "32",
+      "68",
+      "70",
+      "64",
+      "64"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2016,
+    "subject": "mathematics",
+    "q_num": 23,
+    "text": "The real number x which satisfy the inequality 1/3(x\u00b11)-1 >1/5(x+4).",
+    "options": [
+      "x<11",
+      "x=1",
+      "x>1",
+      "x=11",
+      "x=11"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2016,
+    "subject": "physics",
+    "q_num": 26,
+    "text": "In which of the fallowing material would sound travel",
+    "options": [
+      "water",
+      "oil",
+      "metal",
+      "gas",
+      "gas"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2016,
+    "subject": "physics",
+    "q_num": 27,
+    "text": "Suppose the direction of the refracted ray is required for the light incident in air at 50\u00b0,n=1.33.Find the angle of refraction",
+    "options": [
+      "45\u00b0",
+      "50\u00b0",
+      "70\u00b0",
+      "35\u00b0",
+      "35\u00b0"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2016,
+    "subject": "physics",
+    "q_num": 33,
+    "text": "Suppoe a car of mass 1000kg is accelerating at 2m/s\u00b2 then the force F acting on it is",
+    "options": [
+      "20000N",
+      "2000N",
+      "40000N",
+      "4500N",
+      "4500N"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2016,
+    "subject": "physics",
+    "q_num": 34,
+    "text": "Whch of the same quantities has same unit as Joules",
+    "options": [
+      "Newton  X   Foce",
+      "Force  X  acceleration",
+      "Newton  X meter",
+      "Watt  XForce",
+      "Watt  XForce"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2016,
+    "subject": "physics",
+    "q_num": 38,
+    "text": "The process whereby a liquid spontanecusly changes into vapour is caled",
+    "options": [
+      "evaporation",
+      "regulation",
+      "boiling",
+      "sublimation",
+      "sublimation"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2016,
+    "subject": "physics",
+    "q_num": 39,
+    "text": "The pitch of sound note depend on",
+    "options": [
+      "timber",
+      "Harmonics",
+      "Frequency",
+      "Quality.",
+      "Quality."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2016,
+    "subject": "physics",
+    "q_num": 40,
+    "text": "Satelite communication network makes use of",
+    "options": [
+      "Infra-red ray",
+      "Sound wave",
+      "Radio wave",
+      "x-ray wave",
+      "x-ray wave"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2016,
+    "subject": "physics",
+    "q_num": 45,
+    "text": "The magnetic field is produce at what ange",
+    "options": [
+      "0\u00b0",
+      "30\u00b0",
+      "180\u00b0",
+      "90\u00b0",
+      "90\u00b0"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2016,
+    "subject": "physics",
+    "q_num": 46,
+    "text": "The frequency of a stationary wave of 100Hz has a",
+    "options": [
+      "500m/s",
+      "200m/s",
+      "300m/s",
+      "40m/s",
+      "40m/s"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2016,
+    "subject": "physics",
+    "q_num": 47,
+    "text": "A battery of e.m.f 40V and internal resistance 5Q is",
+    "options": [
+      "40W",
+      "20V",
+      "30V",
+      "75V",
+      "75V"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2016,
+    "subject": "physics",
+    "q_num": 49,
+    "text": "Filament is commorly used at home because of its",
+    "options": [
+      "high freezing  point",
+      "low  melting  point",
+      "low  boiling  point",
+      "high  melting  point.",
+      "high  melting  point."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "biology",
+    "q_num": 49,
+    "text": "Which of the following structures is capable of pradudng more tissues in the stem of a herbaceous flowering plant?",
+    "options": [
+      "epidermis    (",
+      "pericycle    (",
+      "xylem(",
+      "cambium",
+      "cambium"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "biology",
+    "q_num": 50,
+    "text": "The manufacture of carbchydrates by plants takes place only in(",
+    "options": [
+      "the  leaves  (",
+      "the  green  stems  (",
+      "chlorophyllous  parts (",
+      "flowering    plants",
+      "flowering    plants"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "biology",
+    "q_num": 51,
+    "text": "In a water culture experiment,a plant showed poor growth and yellowing of the leaves.These may be due to deficiency of(",
+    "options": [
+      "copper(",
+      "iron(",
+      "magnesium(",
+      "calcium",
+      "calcium"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "biology",
+    "q_num": 52,
+    "text": "In million's test,when the reagent is added to a protein food item,a white precipitate is produced which turns (",
+    "options": [
+      "blue  on heating(",
+      "yellow  on  heating  (",
+      "green  on  heating(",
+      "red  on heating",
+      "red  on heating"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "biology",
+    "q_num": 53,
+    "text": "Regulation of blood sugar level takes place in the (",
+    "options": [
+      "pancrease(",
+      "ileum   (",
+      "liver   (",
+      "kidney",
+      "kidney"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "biology",
+    "q_num": 54,
+    "text": "Unicellular orgarism tranport essential nutrients directly to all parts of their bodies by the process of diffusion because they have (",
+    "options": [
+      "a large volume to surface area ratio (",
+      "a large surface  area to volume ratio (",
+      "their bodies immersed in the nutrients (",
+      "their outer membrane made of cellulose",
+      "their outer membrane made of cellulose"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "biology",
+    "q_num": 58,
+    "text": "Inwhidh of the following groups of animals is the Malphigian tubule found?(",
+    "options": [
+      "lizards,snakes and.frogs (",
+      "crickets,house     flies and grasshoppers(",
+      "millipedes,,centipedes and scorpions (",
+      "earthworms,roundworms and flatworms",
+      "earthworms,roundworms and flatworms"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "chemistry",
+    "q_num": 44,
+    "text": "In snails,the hard calcareous shells are secreted by the (",
+    "options": [
+      "radius(",
+      "tenidium(",
+      "pneumostome         (",
+      "mantle",
+      "mantle"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "chemistry",
+    "q_num": 46,
+    "text": "The caste of termites that lacks pigmentation is the (",
+    "options": [
+      "king (",
+      "worker   (",
+      "soldier   (",
+      "queen",
+      "queen"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "chemistry",
+    "q_num": 47,
+    "text": "The structures that prevent food particles from",
+    "options": [
+      "arches (",
+      "filaments (",
+      "rakers  (",
+      "lamellae",
+      "lamellae"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "chemistry",
+    "q_num": 48,
+    "text": "A distinguishing feature of mammals is the possession of (",
+    "options": [
+      "distinguishing feature of mammals is the possession of (",
+      "skin  (",
+      "scale  (",
+      "nail  (",
+      "hair"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "mathematics",
+    "q_num": 18,
+    "text": "An objedt is placed between two mirrors four which are",
+    "options": [
+      "1(",
+      "2     (",
+      "3(",
+      "4(",
+      "4("
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "mathematics",
+    "q_num": 29,
+    "text": "An arc of length 22cm subtends an angle of?at the centre of the circle.What is the value of?if the radius of the circle is 15cm?(Taken=22/7)(",
+    "options": [
+      "70(",
+      "84(",
+      "96(",
+      "156(",
+      "168"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "mathematics",
+    "q_num": 30,
+    "text": "Find the sum of the first five terms of the GP 2.6.18.(",
+    "options": [
+      "484 (",
+      "243(",
+      "242(",
+      "130   (",
+      "121"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "mathematics",
+    "q_num": 31,
+    "text": "LetJ bethe set of postive integer If H=(x:J,x\u00b2<3and x#O) then.(",
+    "options": [
+      "H(1)(",
+      "His  an  infinite  set  (",
+      "SH(o,1,2)(",
+      "H=0   (",
+      "J<H"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "mathematics",
+    "q_num": 32,
+    "text": "In aclass of80 student had to study Economics ar Geography. or both Economics and Geography.If 64 students studies",
+    "options": [
+      "15(",
+      "30(",
+      "35  (",
+      "45(",
+      "50"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "mathematics",
+    "q_num": 35,
+    "text": "Solve the equation 7y\u00b2=3y.(",
+    "options": [
+      "y=3    or7(",
+      "y=0or7(",
+      "y =0or9(",
+      "y=0 or 10",
+      "y=0 or 10"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "mathematics",
+    "q_num": 37,
+    "text": "Asector of a circle of radius 7cm has an area of 44cm2. Calculate the angle of the sector,correct to the nearest degree.(",
+    "options": [
+      "6(",
+      "26  (",
+      "52(",
+      "103(",
+      "206"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "mathematics",
+    "q_num": 38,
+    "text": "If the shadow of a pole 7m high is 1/2 its length,what is the angle of elevation of the sun,correct to the nearest degree?(",
+    "options": [
+      "90(",
+      "63(",
+      "60   (",
+      "26(",
+      "26("
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "mathematics",
+    "q_num": 40,
+    "text": "The bearing of a point X from Yis 074.What is the bearing of Yfrom X?(",
+    "options": [
+      "106(",
+      "148(",
+      "164(",
+      "254(",
+      "286"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "physics",
+    "q_num": 1,
+    "text": "Which of the following is not an example of a force?",
+    "options": [
+      "tension  (",
+      "Weight  (",
+      "friction  (",
+      "mass  (",
+      "thrust"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "physics",
+    "q_num": 2,
+    "text": "A body moves along a circular path with uniform angular speed of 0.6 rad s and at a constant speed of 3.0m1",
+    "options": [
+      "25.0m/s(",
+      "5.4m/s(",
+      "5.0m/s(",
+      "1.8m/s (",
+      "0.2m/s"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "physics",
+    "q_num": 3,
+    "text": "Which of the following is a derived unit?(",
+    "options": [
+      "Kilogram (",
+      "second (",
+      "Ohm (",
+      "Kelvin",
+      "Kelvin"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "physics",
+    "q_num": 4,
+    "text": "A boytimed 20 oscillations of certain pendulum three",
+    "options": [
+      "0.13s(",
+      "2.22s(",
+      "2.26s  (",
+      "44.30s  (",
+      "45.17s"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "physics",
+    "q_num": 5,
+    "text": "A partide starts from rest and moves with a constant",
+    "options": [
+      "2.5s(",
+      "7.1s(",
+      "10.0s (",
+      "50.0s   (",
+      "100.0s"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "physics",
+    "q_num": 6,
+    "text": "A blodk of material of volume 2 xl0-5m\u00b3and density 2.5",
+    "options": [
+      "0.1ON(",
+      "0.10N  (",
+      "0.30N  (",
+      "0.40N  (",
+      "0.50N"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "physics",
+    "q_num": 7,
+    "text": "An object is projected with a velocity of 100ms'from the ground level at an angle?to the vertical.If the total time of flight of the projectile is los,calculate?(g 10ms1)(",
+    "options": [
+      "0    (",
+      "30(",
+      "45(",
+      "60  (",
+      "90"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "physics",
+    "q_num": 8,
+    "text": "Howfar will a body move in 4 secands if uniform accelerate from rest atrate of 2m/s\u00b2?(",
+    "options": [
+      "32m(",
+      "24m(",
+      "1\u00f3m(",
+      "12m   (",
+      "8m"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "physics",
+    "q_num": 10,
+    "text": "The expansion of solids can be considered a disadvantage in the (",
+    "options": [
+      "fire  alarm  system(",
+      "thermostat   (",
+      "riveting  of  steel plates \u300a",
+      "balance wheel of a watch(",
+      "fitting of wheels on  rims"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "physics",
+    "q_num": 12,
+    "text": "A gas has a volume of 546om3 at Oc What is the volume of the gas at 100\u00b0c if its pressure remains constant?",
+    "options": [
+      "346cm\u00b3(",
+      "446cm\u00b3(",
+      "546cm\u00b3(",
+      "646cm\u00b3(",
+      "\u2086.0cm\u00b3"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "physics",
+    "q_num": 13,
+    "text": "An image which cannot be formed on a screen is said to be (",
+    "options": [
+      "invented  (",
+      "real  (",
+      "erect  (",
+      "blurred",
+      "blurred"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "physics",
+    "q_num": 16,
+    "text": "In the normal use of a simple microscope,a person sees an (",
+    "options": [
+      "inverted,virtual   and    magnified    image(",
+      "erect,virtual    and  magnified  image(",
+      "erect,real  and  magnified  image     (",
+      "magnified,real  and  magnified  image  (",
+      "inverted  and     real image the same as the object"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "physics",
+    "q_num": 19,
+    "text": "In aripple tank experiment,a vibrating plate is used to",
+    "options": [
+      "30Hz(",
+      "6.OHz(",
+      "12.0Hz(",
+      "27.OHz(",
+      "73.5Hz"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "physics",
+    "q_num": 20,
+    "text": "Which of the following have the longest wave lengths?(",
+    "options": [
+      "infra-red rays (",
+      "gamma rays (",
+      "x rays (",
+      "ultraviolet rays",
+      "ultraviolet rays"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "physics",
+    "q_num": 22,
+    "text": "1f 3=2,what isx?(",
+    "options": [
+      "1(",
+      "1.5(",
+      "4.5(",
+      "18(",
+      "40.5"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "physics",
+    "q_num": 23,
+    "text": "E&pres 0.00562in standard form(",
+    "options": [
+      "5.62x10\u00b3(",
+      "5.62x10\u00b2 (",
+      "5.62x10\u00b2(",
+      "5.62x10\u00b2(",
+      "5.62x10\u00b3"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "physics",
+    "q_num": 26,
+    "text": "If logx=2.3675 and logy=0.9750,find x+y,corect to three significant figures?(",
+    "options": [
+      "1.18(",
+      "9.31(",
+      "9.03 (",
+      "9.44(",
+      "9.46"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2017,
+    "subject": "physics",
+    "q_num": 28,
+    "text": "Find the 4th term of an",
+    "options": [
+      "P whose first term is 2 and the common difference is 0.5 (",
+      "0.5(",
+      "2.5(",
+      "3.5(",
+      "4("
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2018,
+    "subject": "biology",
+    "q_num": 11,
+    "text": "A govemment spokesman anncunced that efforts \u2026 \u2026 \u2026",
+    "options": [
+      "to obtain",
+      "in obtaining",
+      "for obtaining",
+      "of obtaining.",
+      "of obtaining."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2018,
+    "subject": "biology",
+    "q_num": 12,
+    "text": "I know youthink lam talking nonsene,Shehu but \u2026 \u2026 \u2026",
+    "options": [
+      "at one time",
+      "on time",
+      "in time",
+      "at times.",
+      "at times."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2018,
+    "subject": "biology",
+    "q_num": 14,
+    "text": "The vice prindpal asked the students to always \u2026\u2026\u2026 their",
+    "options": [
+      "look out",
+      "search out",
+      "look up",
+      "bring up.",
+      "bring up."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2018,
+    "subject": "biology",
+    "q_num": 17,
+    "text": "WaleAgun,in creating his characters,draws",
+    "options": [
+      "by",
+      "in",
+      "on",
+      "of.",
+      "of."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2018,
+    "subject": "biology",
+    "q_num": 18,
+    "text": "When I have an appointment with someone,Ihate \u2026\u2026\u2026",
+    "options": [
+      "to be keeping",
+      "for being kept",
+      "being kept",
+      "in being kept.",
+      "in being kept."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2018,
+    "subject": "biology",
+    "q_num": 19,
+    "text": "It's no good \u2026\u2026\u2026about the resuit until you have sat for",
+    "options": [
+      "to  worry",
+      "for worrying",
+      "worrying",
+      "to have worried.",
+      "to have worried."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2018,
+    "subject": "chemistry",
+    "q_num": 20,
+    "text": "If you don't want to\u2026\u2026\u2026your car to robbers,then",
+    "options": [
+      "loose",
+      "loss",
+      "lose",
+      "lost. 21.The number 25 when converted from the tens and units  base to the binary base(base two)is oneofthefollowing.",
+      "lost. 21.The number 25 when converted from the tens and units  base to the binary base(base two)is oneofthefollowing."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2018,
+    "subject": "mathematics",
+    "q_num": 25,
+    "text": "The first term of an Arithmetic Progression is 3 and the fifth term is 9.Find the number of the terms in the progression if the sum is 81.[Al 12[B]27[C]9[D]4[E]36.",
+    "options": [
+      "27",
+      "9",
+      "4",
+      "36.",
+      "36."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2018,
+    "subject": "mathematics",
+    "q_num": 28,
+    "text": "A baking recipe calls for 2.5 kg of sugar and 4.5 kg flour with this recipe some cakes were baked using 24.5 kg of a",
+    "options": [
+      "6.5kg",
+      "8.75kg",
+      "15.75kg",
+      "8.25 kg.",
+      "8.25 kg."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2018,
+    "subject": "mathematics",
+    "q_num": 29,
+    "text": "The sum of the root of a quadratic is 5/2 and then product of",
+    "options": [
+      "2\u00b2-5+B=0",
+      "2\u00b2-8+5=0",
+      "2\u00b2+8-5=0",
+      "2\u00b2-s+B=o.",
+      "2\u00b2-s+B=o."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2018,
+    "subject": "physics",
+    "q_num": 1,
+    "text": "Shadows and eclipses resultfrom the [A]refraction of light [B]rectilinear propagation of light [C]diffraction of light [D]reflection of light.",
+    "options": [
+      "refraction of light",
+      "rectilinear   propagation   of   light",
+      "diffraction   of   light",
+      "reflection  of  light.",
+      "reflection  of  light."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2018,
+    "subject": "physics",
+    "q_num": 4,
+    "text": "What must be the distan\u0153 between an object and a",
+    "options": [
+      "20cm",
+      "15cm",
+      "10cm",
+      "5cm.",
+      "5cm."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2018,
+    "subject": "physics",
+    "q_num": 5,
+    "text": "For a shortsighted persan,light ray from apoint on a very distant object is focused.[A]in front of the retina [B]on the retina by a converging lens [C]behind the retina by a diverging lens [D]in front of the retina at a distant of 2F from the lens",
+    "options": [
+      "in front  of the  retina",
+      "on   the retina by a converging lens",
+      "behind the retina by a   diverging lens",
+      "in front of the retina at a distant of 2F   from the lens",
+      "in front of the retina at a distant of 2F   from the lens"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2018,
+    "subject": "physics",
+    "q_num": 6,
+    "text": "When light is incident on an object,which is magenta in",
+    "options": [
+      "red and blue",
+      "green only",
+      "red and green",
+      "red only.",
+      "red only."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2018,
+    "subject": "physics",
+    "q_num": 7,
+    "text": "In a resonance tube experiment,the effective length of the air column for the first resonance is 20cm when set into vibration by a tuning fork of frequency 480Hz.",
+    "options": [
+      "96m/s",
+      "255m/s",
+      "340m/s",
+      "384m/s,",
+      "384m/s,"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2018,
+    "subject": "physics",
+    "q_num": 31,
+    "text": "In which order are the fallowing salts sensitive to light?[A] Agl AgClAgBr [B]AgClAglAgBr [C]AgBr AgCl Agl [D]AgCl",
+    "options": [
+      "Agl AgClAgBr",
+      "AgClAglAgBr",
+      "AgBr AgCl Agl",
+      "AgCl",
+      "AgCl"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2019,
+    "subject": "biology",
+    "q_num": 42,
+    "text": "Which of the folowing is not true of the nucleus of a livuing cell?It contains",
+    "options": [
+      "nudleus",
+      "nucleoplasm",
+      "chromatids",
+      "ribosomes",
+      "ribosomes"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2019,
+    "subject": "biology",
+    "q_num": 43,
+    "text": "The cell membranes consists of",
+    "options": [
+      "carbohydrates and lipids",
+      "vitamins and  proteins",
+      "lipids and  proteins",
+      "water and sugar",
+      "starch and cellulose"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2019,
+    "subject": "biology",
+    "q_num": 44,
+    "text": "Which of the folowing is not likely to be found in the cel of aripe tomato fruit?",
+    "options": [
+      "plastids",
+      "chlorophyll",
+      "cellulose cell wall",
+      "mitochondrion",
+      "mineral  salts"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2019,
+    "subject": "chemistry",
+    "q_num": 1,
+    "text": "A mixture cantains 20cm\u00b3of hydrogen,35cm\u00b3of oxygen,",
+    "options": [
+      "0.02",
+      "0.16",
+      "0.20",
+      "0.25",
+      "20                                             privilege"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2019,
+    "subject": "chemistry",
+    "q_num": 2,
+    "text": "0.07g of a hydride ofcarbon occupies 56 at S.T.P when 14.The chief priest will\u2026\u2026\u2026the main into the cut today.",
+    "options": [
+      "indoctrinate",
+      "usher",
+      "convert",
+      "initiate",
+      "initiate"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2019,
+    "subject": "chemistry",
+    "q_num": 6,
+    "text": "In the preparation of carbon monoxide by heating 21.Which of the folowing is a scalar quantity?",
+    "options": [
+      "acceleration",
+      "displacement",
+      "distance",
+      "force",
+      "force"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2019,
+    "subject": "chemistry",
+    "q_num": 10,
+    "text": "If the rate of diffusion df oxygen gas is taken as 1,what the length of the string",
+    "options": [
+      "2.0",
+      "1.8",
+      "1.4",
+      "1.0",
+      "0.5                                      26."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2019,
+    "subject": "chemistry",
+    "q_num": 16,
+    "text": "The gir that my brother introduced to us last week is pretty",
+    "options": [
+      "58cm\u00b3                                                                                                                           contrary",
+      "inconsistent",
+      "different",
+      "congruent",
+      "congruent"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2019,
+    "subject": "mathematics",
+    "q_num": 35,
+    "text": "Sdlve the equation y-11y+24=0",
+    "options": [
+      "8,3",
+      "64,9",
+      "6,4",
+      "9,-8",
+      "9,-8"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2019,
+    "subject": "mathematics",
+    "q_num": 37,
+    "text": "Ice foms on a refrigerator ice box at the rate of 4.06g per minute after 1 minute.If initially there were 2g of ice,find the mass of ice formed in 5 minutes",
+    "options": [
+      "19.5",
+      "17.0",
+      "14.5",
+      "12.5",
+      "12.5"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2019,
+    "subject": "mathematics",
+    "q_num": 39,
+    "text": "Two perfect dice were thrown together.Determine the probability of obtaining a total score of 8.",
+    "options": [
+      "1/12",
+      "5/36",
+      "1/6",
+      "7/36",
+      "7/36"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2019,
+    "subject": "mathematics",
+    "q_num": 40,
+    "text": "The probability of anevent Pis}%while that of another event Qis 1/6 If the probability of both P and Q is 1/12, what is the probability of either P or Q?",
+    "options": [
+      "1/96",
+      "1/8",
+      "5/6",
+      "11/12",
+      "11/12"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2019,
+    "subject": "physics",
+    "q_num": 7,
+    "text": "How many grammes of methyl acetylene (propane) 23.A body acceleratesunifomly from rest at the rate of 3m/s2 for",
+    "options": [
+      "0.5",
+      "1.0",
+      "2.0",
+      "3.0",
+      "4.0                                 acceleration."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2019,
+    "subject": "physics",
+    "q_num": 8,
+    "text": "Brass is an alloy cantaining copper and A zinc",
+    "options": [
+      "aluminum",
+      "silver",
+      "lead                                                                              a  force?",
+      "force",
+      "power"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2019,
+    "subject": "physics",
+    "q_num": 9,
+    "text": "60cm\u00b3of hydrogen are sparked with 20cm\u00b3of oxygen at 25.Which of the following will reduce the frequency of",
+    "options": [
+      "60cm\u00b3",
+      "10cm\u00b3",
+      "40cm\u00b2",
+      "30cm\u00b2",
+      "70cm\u00b3                                              of the bob"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2019,
+    "subject": "physics",
+    "q_num": 11,
+    "text": "The sea wave contirue to \u2026\u2026the cliff on the west energy best?",
+    "options": [
+      "red",
+      "white",
+      "black",
+      "yellow",
+      "blue"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2019,
+    "subject": "physics",
+    "q_num": 12,
+    "text": "The callege bus was traveling at a high \u2026\u2026\u2026when the 283cm\u00b3at 10\u2103,what is its volume at 30\u00b0c?",
+    "options": [
+      "velocity",
+      "acceleration",
+      "rapidity",
+      "293cm\u00b3",
+      "303cm\u00b3"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2019,
+    "subject": "physics",
+    "q_num": 29,
+    "text": "A real image of an objed formed by a converging lens of focal length 15cm is 3times the size of the object.What is the distance of the objed from the lens?",
+    "options": [
+      "real image of an objed formed by a converging lens of focal length  15cm is 3times the size of the object.What  is  the  distance  of  the  objed  from  the   lens?",
+      "30cm 8.25cm",
+      "20cm",
+      "15cm",
+      "10cm"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2019,
+    "subject": "physics",
+    "q_num": 41,
+    "text": "Which of the following organelles is used far locomotion in paramecium?",
+    "options": [
+      "pseudopodium",
+      "irichocyst",
+      "cilium",
+      "pellicde",
+      "contractile  vacuole"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2020,
+    "subject": "english",
+    "q_num": 2,
+    "text": "My price for the shoes is fifty naira I cannot \u2026\u2026",
+    "options": [
+      "bear with",
+      "settle for",
+      "agree with",
+      "tolerate",
+      "settle  with"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2020,
+    "subject": "english",
+    "q_num": 4,
+    "text": "The president's speech\u2026\u2026\u2026.at 7pm yesterday.",
+    "options": [
+      "has been broadcast",
+      "were broadcast",
+      "was broadcast",
+      "have been broadcast",
+      "have been broadcast"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2020,
+    "subject": "english",
+    "q_num": 5,
+    "text": "The students were-advised to look \u2026\u2026\u2026difficult words in",
+    "options": [
+      "in",
+      "on",
+      "out",
+      "into",
+      "Up"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2020,
+    "subject": "english",
+    "q_num": 6,
+    "text": "The building\u2026\u2026\u2026because of weak structural foundation.",
+    "options": [
+      "succumbed",
+      "somersaulted",
+      "collapsed",
+      "collapsed",
+      "collapsed"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2020,
+    "subject": "english",
+    "q_num": 7,
+    "text": "Since the writer did not indicate his name,the editor",
+    "options": [
+      "an anonymous",
+      "a cowardly",
+      "a libellous",
+      "unfriendly",
+      "unfriendly"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2020,
+    "subject": "english",
+    "q_num": 8,
+    "text": "He was charged with complicity\u2026\u2026\u2026\u2026\u2026.the abortive coup.",
+    "options": [
+      "in",
+      "for",
+      "about",
+      "on",
+      "with"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2020,
+    "subject": "english",
+    "q_num": 10,
+    "text": "things she had in the room were thrown out.",
+    "options": [
+      "the few",
+      "all few",
+      "very few",
+      "a few",
+      "a few"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2020,
+    "subject": "mathematics",
+    "q_num": 11,
+    "text": "Pure solvents are obtained by",
+    "options": [
+      "distillation",
+      "condensation",
+      "extraction",
+      "evaporation",
+      "dis"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2021,
+    "subject": "english",
+    "q_num": 1,
+    "text": "Ifeyinwafound that thieves had entered her house in her",
+    "options": [
+      "breakup",
+      "break in",
+      "breakthrough",
+      "breakin",
+      "breakin"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2021,
+    "subject": "english",
+    "q_num": 2,
+    "text": "Gone are the days when he \u2026\u2026\u2026Enjoy patronage",
+    "options": [
+      "will",
+      "could",
+      "used to",
+      "can",
+      "can"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2021,
+    "subject": "english",
+    "q_num": 3,
+    "text": "All\u2026\u2026Well with Peter.",
+    "options": [
+      "are not",
+      "have rot been",
+      "were not",
+      "is not",
+      "aren't"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2021,
+    "subject": "english",
+    "q_num": 4,
+    "text": "The villagers looked \u2026\u2026\u2026their leader far good examples.",
+    "options": [
+      "upto",
+      "onto",
+      "up at",
+      "forward to",
+      "Into"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2021,
+    "subject": "english",
+    "q_num": 5,
+    "text": "Emekafailed because the examination was\u2026\u2026\u2026\u2026difficult",
+    "options": [
+      "so",
+      "very",
+      "highly",
+      "too",
+      "much"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2021,
+    "subject": "english",
+    "q_num": 6,
+    "text": "Thedancers were all in\u2026.before their departure.",
+    "options": [
+      "good spirits",
+      "good spirit",
+      "high spirit",
+      "high spirits",
+      "high spirit"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2021,
+    "subject": "english",
+    "q_num": 7,
+    "text": "The suspect defrauded his\u2026\u2026\u2026.victim of large sums of",
+    "options": [
+      "unsuspected",
+      "unsuspecting",
+      "unexpected",
+      "unexpecting",
+      "suspecting"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2021,
+    "subject": "english",
+    "q_num": 8,
+    "text": "The judge acquitted the accused all the eight counts.",
+    "options": [
+      "of",
+      "in",
+      "from",
+      "upon",
+      "on"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2021,
+    "subject": "english",
+    "q_num": 9,
+    "text": "My uncle is cne ofthe \u2026\u2026of society",
+    "options": [
+      "elitists",
+      "eites",
+      "elite",
+      "elitist.",
+      "elitist."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2021,
+    "subject": "mathematics",
+    "q_num": 11,
+    "text": "Which of the following solids has a network struture?",
+    "options": [
+      "diamond",
+      "iodine",
+      "sulphur",
+      "graphite",
+      "butter"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "year": 2021,
+    "subject": "mathematics",
+    "q_num": 13,
+    "text": "The alloy used for metd work and plumbing contains.",
+    "options": [
+      "lead and tin",
+      "iron and carbon",
+      "copper and tin",
+      "aluminium and copper",
+      "aluminum and iron"
+    ],
+    "difficulty": "medium"
+  }
+]

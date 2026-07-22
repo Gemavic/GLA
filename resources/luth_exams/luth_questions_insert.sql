@@ -1,0 +1,1108 @@
+-- LUTH School of Nursing Entrance Exam Questions
+-- Data Extraction completed on 2024-02-15
+-- Source: LUTH_Entrance.pdf
+-- Total Questions: 108
+
+-- Subject ID Mapping:
+-- 1 = English
+-- 2 = Mathematics
+-- 3 = Physics
+-- 4 = Chemistry
+-- 5 = General Knowledge
+-- 6 = Biology
+
+BEGIN;
+
+-- Insert exam questions
+INSERT INTO exam_questions (
+  subject_id,
+  question_text,
+  question_type,
+  options,
+  correct_answer,
+  difficulty,
+  topic,
+  year
+) VALUES
+(
+    1,
+    'Without ………….words he accused him directly of treachery.',
+    'multiple_choice',
+    '["amending", "modifying", "mixing", "mincing", "minimizing"]',
+    NULL,
+    'medium',
+    'LUTH 2022',
+    2022
+  ),
+(
+    1,
+    'They tried to cash in the people ignorance',
+    'multiple_choice',
+    '["under", "on", "against", "with", "at"]',
+    NULL,
+    'medium',
+    'LUTH 2022',
+    2022
+  ),
+(
+    1,
+    'Always remember to……………the lights before leaving the room',
+    'multiple_choice',
+    '["put on", "put off", "switch off", "blow out", "remove"]',
+    NULL,
+    'medium',
+    'LUTH 2022',
+    2022
+  ),
+(
+    1,
+    'I am disappointed the ways you conducted yourself at the party.',
+    'multiple_choice',
+    '["by", "for", "due", "in", "at"]',
+    NULL,
+    'medium',
+    'LUTH 2022',
+    2022
+  ),
+(
+    1,
+    'The proprietors should be blamed for such a deplorable condition in the nursery schools…………',
+    'multiple_choice',
+    '["isn't it", "shouldn't they", "should they", "isit", "wouldn't they"]',
+    NULL,
+    'medium',
+    'LUTH 2022',
+    2022
+  ),
+(
+    1,
+    'Do you mind………another  minute  or  two?',
+    'multiple_choice',
+    '["to wait", "wait", "waiting", "being waited", "waits"]',
+    NULL,
+    'medium',
+    'LUTH 2022',
+    2022
+  ),
+(
+    1,
+    'It had been raining before the match started…………',
+    'multiple_choice',
+    '["isn'tit", "hasn't it", "hadn't it", "wasn't it", "haven't it"]',
+    NULL,
+    'medium',
+    'LUTH 2022',
+    2022
+  ),
+(
+    1,
+    'Mary goes to school……bus',
+    'multiple_choice',
+    '["in", "on", "with", "of", "by"]',
+    NULL,
+    'medium',
+    'LUTH 2022',
+    2022
+  ),
+(
+    1,
+    'The plane overshot the…………in a minor accident',
+    'multiple_choice',
+    '["read", "hanger", "runway", "tarmac", "railway"]',
+    NULL,
+    'medium',
+    'LUTH 2022',
+    2022
+  ),
+(
+    1,
+    'Journalists always collect and publish………',
+    'multiple_choice',
+    '["information", "informations", "an information", "much information", "every information"]',
+    NULL,
+    'medium',
+    'LUTH 2022',
+    2022
+  ),
+(
+    2,
+    'A micrometer is defined as one millionth of a millimeter. A length of 12,000 micrometer may be represented as?',
+    'multiple_choice',
+    '["0.00012M", "0.0000012M", "0.000012M", "0.00000012M", "0.000000012M"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    2,
+    'Factorize 3x³+4x²-13x+6 completely, given that x-1 is a factor.',
+    'multiple_choice',
+    '["(x-1)(x-3)(x+2)", "(x-1)(x+3)(x-2)", "(x-1)(x+3)(3x-2)", "(x-1)(x+3)(3x-2)", "(x-1)(x-3)(x+2)"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    2,
+    'If the price of oranges was raised by %k per orange, the number of oranges a customer can buy for N2.40 will be less by 16. What is the price of an orange?',
+    'multiple_choice',
+    '["2.5k", "3.5k", "5.5k", "20k", "25k"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    2,
+    'Find all real numbers x which satisfies the inequality 1/3(x+1)+1>1/5(x+4).',
+    'multiple_choice',
+    '["x<11", "x<-1", "x>6", "x=11", "x>-6"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    2,
+    '7 pupils of average age 12 years leave a class of 25 pupils average age 14 years. If 6 new pupils of average age 11 years join the class, what is the average age of the pupils now in the class?',
+    'multiple_choice',
+    '["13 years", "12 years 6 months", "13 years 5 months", "13 years 10 months", "13 years 7.5 months"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    2,
+    'Given a regular hexagon, calculate each interior angle of the hexagon',
+    'multiple_choice',
+    '["60\u00b0", "120\u00b0", "45\u00b0", "135\u00b0", "140\u00b0"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    2,
+    'Without using tables, solve the equation: 8x²=2/5.',
+    'multiple_choice',
+    '["4", "6", "8", "10", "12"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    2,
+    'A student measures a piece of rope and found that it was 1.26m long. If the actual length of the rope is 1.25m, what was the percentage error in the measurement?',
+    'multiple_choice',
+    '["0.40%", "0.01%", "0.25%", "0.89%", "0.80%"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    2,
+    'Express the product of 0.21 and 0.34 in standard form',
+    'multiple_choice',
+    '["7.14\u00d710\u00b3", "7.14\u00d710\u00b9", "7.14\u00d710\u00b2", "7.14\u00d710\u2074", "7.14\u00d710\u2075"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    2,
+    'If 5, 8, 6 and 2 occur with frequencies 3, 2, 4 and 1 respectively, find the product of the modal and median number',
+    'multiple_choice',
+    '["36", "48", "30", "40", "None of the above"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    6,
+    'A plant which grows on another plant without apparent harm to the host plant is called',
+    'multiple_choice',
+    '["a parasite", "an epiphyte", "a saprophyte", "a predator", "a hermaphrodite"]',
+    NULL,
+    'medium',
+    'LUTH 2022',
+    2022
+  ),
+(
+    6,
+    'Which of these types of skeleton is most appropriate to the cockroach?',
+    'multiple_choice',
+    '["hydrostatic skeleton", "exoskeleton", "endoskeleton", "cartilaginous skeleton", "bony skeleton"]',
+    NULL,
+    'medium',
+    'LUTH 2022',
+    2022
+  ),
+(
+    6,
+    'Which of these is not true of the insect? The possession of',
+    'multiple_choice',
+    '["two pairs of antennae", "jointed appendages", "exoskeleton", "three pairs of legs", "segmented body"]',
+    NULL,
+    'medium',
+    'LUTH 2022',
+    2022
+  ),
+(
+    6,
+    'All living things',
+    'multiple_choice',
+    '["photosynthesis", "respire", "move", "transpire", "feed"]',
+    NULL,
+    'medium',
+    'LUTH 2022',
+    2022
+  ),
+(
+    6,
+    'A secchi disc is used in the determination of',
+    'multiple_choice',
+    '["rainfall", "tides", "waves", "turbidity", "current velocity"]',
+    NULL,
+    'medium',
+    'LUTH 2022',
+    2022
+  ),
+(
+    6,
+    'Which of the following is not an excretory product?',
+    'multiple_choice',
+    '["urine", "sweat", "feces", "salts", "carbon dioxide"]',
+    NULL,
+    'medium',
+    'LUTH 2022',
+    2022
+  ),
+(
+    6,
+    'Which of the following organs produce bile?',
+    'multiple_choice',
+    '["gallbladder", "pancreas", "spleen", "liver", "stomach"]',
+    NULL,
+    'medium',
+    'LUTH 2022',
+    2022
+  ),
+(
+    6,
+    'Which of the following food substances is digested in the stomach?',
+    'multiple_choice',
+    '["carbohydrates", "fats and oil", "fats and proteins", "proteins", "carbohydrates and fats"]',
+    NULL,
+    'medium',
+    'LUTH 2022',
+    2022
+  ),
+(
+    6,
+    'For pollination and fruit formation, the essential part(s) of the flower should be the',
+    'multiple_choice',
+    '["corolla", "ovary", "pistil (gynoecium)", "ovules", "receptacle"]',
+    NULL,
+    'medium',
+    'LUTH 2022',
+    2022
+  ),
+(
+    6,
+    'Which part of the human brain is concerned with reflexes controlling the rate of heartbeat and breathing?',
+    'multiple_choice',
+    '["medulla", "cerebrum", "cerebellum", "pineal body", "olfactory lobe"]',
+    NULL,
+    'medium',
+    'LUTH 2022',
+    2022
+  ),
+(
+    3,
+    'Which of the following is not a consequence of a force field?',
+    'multiple_choice',
+    '["weight", "surface tension", "gravitational pull", "magnetic force", "electric force"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    3,
+    'Which of the following is used to determine the relative density of the acid in a car battery?',
+    'multiple_choice',
+    '["hypsometer", "hygrometer", "manometer", "hydrometer", "nanometer"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    3,
+    'The motion of the prongs of sounding tuning fork is?',
+    'multiple_choice',
+    '["random", "translational", "rotational", "vibration", "vibratory and rotational"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    3,
+    'A simple microscope forms an image twice the size of an object. If the focal length of the lens of microscope is 29cm, how far is the object from the lens?',
+    'multiple_choice',
+    '["10m", "20m", "30m", "40m", "60m"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    3,
+    'An avocado fruit drops from the top of a tree 45m tall. How long does it take to reach the ground?',
+    'multiple_choice',
+    '["3.0s", "4.5s", "6.0s", "8.6s", "9.0s"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    3,
+    'Which of the following is a scalar quantity?',
+    'multiple_choice',
+    '["momentum", "Acceleration", "displacement", "Distance", "force"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    3,
+    'A ball bearing is gently released from rest and allowed to fall through a viscous fluid. Which of the following statements about the motion is correct?',
+    'multiple_choice',
+    '["its acceleration decreases before terminal velocity is attained", "when terminal velocity is attained the acceleration of the fluid becomes zero", "its velocity increases before terminal velocity is attained", "there is no resultant force on the ball before it attains terminal velocity", "acceleration increases uniformly"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    4,
+    'When the vapour of a substance is in equilibrium with its own liquid, it is said to be',
+    'multiple_choice',
+    '["gaseous", "unsaturated", "saturated", "diffused", "liquefied"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    3,
+    'A man standing between two parallel mirrors in a barbers shop will see the following number of his own image',
+    'multiple_choice',
+    '["eight", "two", "four", "one", "Infinite"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    3,
+    'If the wave length of a wave traveling with a velocity of 360m/s is 60cm, the period of the wave is',
+    'multiple_choice',
+    '["6s", "3.5s", "0.17s", "0.61s", "3s"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    4,
+    '120cm³ of hydrogen were sparked with 60cm³ of oxygen at 110°c. What was the volume of steam produced? The equation for the reaction is: 2H2(g)+O2(g)→2H2O(g)',
+    'multiple_choice',
+    '["30cm\u00b3", "60cm\u00b3", "90cm\u00b3", "120cm\u00b3", "150cm\u00b3"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    4,
+    'Catalytic hydrogenation of oils results in the production of',
+    'multiple_choice',
+    '["soaps", "detergents", "alkanes", "margarine", "Butter"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    4,
+    'Which of the following compounds will undergo additional reaction?',
+    'multiple_choice',
+    '["ethyne", "butane", "pentane", "ethanol", "tetrachloromethane"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    4,
+    'The products of the electrolysis of dilute sodium chloride solution with platinum electrodes are',
+    'multiple_choice',
+    '["hydrogen and oxygen", "oxygen and chlorine", "chlorine and water", "sodium amalgam and chlorine", "sodium hydroxide and water"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    4,
+    'When starch undergoes complete enzyme-catalysed hydrolysis, the resulting product is',
+    'multiple_choice',
+    '["glucose", "maltose", "sucrose", "fructose", "cellulose"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    4,
+    'Compounds that have the same molecular formula but different structures are said to be',
+    'multiple_choice',
+    '["allotropic", "polymorphic", "polymeric", "isomeric", "isotropic"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    4,
+    'The maximum number of electrons that can be accommodated in the shell having the principal quantum number 3 is',
+    'multiple_choice',
+    '["3", "9", "10", "18", "32"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    4,
+    'The following acids are non-basic except',
+    'multiple_choice',
+    '["methanoic acid", "dioxinotrate acid", "ethanedoic", "oxochlorate acid", "hydrobromic acid"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    4,
+    'What is the quantity of electricity produced when a current of 0.5A is passed for 5 hours 45 mins? (F=96500C)',
+    'multiple_choice',
+    '["0.11F", "0.12F", "0.22F", "1.1F", "2.2F"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    4,
+    'Which of the following pH values is likely to be that of slightly alkaline system?',
+    'multiple_choice',
+    '["2", "5", "7", "8", "13"]',
+    NULL,
+    'hard',
+    'LUTH 2022',
+    2022
+  ),
+(
+    4,
+    'The alloy used for metal work and plumbing contains',
+    'multiple_choice',
+    '["lead and tin", "iron and carbon", "copper and tin", "aluminium and copper", "aluminum and iron"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    4,
+    'The components of universal indicator solution can best be separated by',
+    'multiple_choice',
+    '["chromatography", "filtration", "evaporation", "fractional distillation", "transpiration"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    4,
+    'The oxidation numbers of phosphorous in PO4²⁻ is',
+    'multiple_choice',
+    '["+1", "+2", "+3", "+5", "+7"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    4,
+    'Water can be obtained as the only product during',
+    'multiple_choice',
+    '["combustion of hydrocarbons", "neutralization of an acid by a base", "combustion of hydrogen", "electrolysis of brine", "boiling water"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    4,
+    'The oxidation of ammonia in excess air produces',
+    'multiple_choice',
+    '["N2O2", "N2O", "NO2", "N2O4", "NO"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    4,
+    'The gasification of coke is used for the manufacture of',
+    'multiple_choice',
+    '["producer gas", "natural gas", "synthetic gas", "industrial gas", "artificial gas"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    4,
+    'The solubility curve shows the variation of solute concentration with',
+    'multiple_choice',
+    '["volume", "temperature", "vapour", "pressure", "weight"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    4,
+    'The density of a certain gas is 1.98g/dm³ at STP. What is the molecular mass of the gas? (molar volume of gas at STP = 22.4dm³)',
+    'multiple_choice',
+    '["44.0g", "54.0g", "26.0g", "31.0g", "39.0g"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    2,
+    'Simplify: log8 + log2 - log12',
+    'multiple_choice',
+    '["-4", "1", "0", "8", "10"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    2,
+    'The interior angles of a pentagon are (2x+5)°, (x+20)°, x°, (3x-20)° and (x+15)°. Find the value of x.',
+    'multiple_choice',
+    '["80\u00b0", "70\u00b0", "65\u00b0", "40\u00b0", "30\u00b0"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    2,
+    'A train travels 60km in M minutes. If its average speed is 400km per hour, find the value of M.',
+    'multiple_choice',
+    '["15", "12", "10", "9", "7"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    2,
+    'A baker used 40% of a 50kg bag of flour. If 1/8 of the amount used was for cake, how many kilograms of flour was used for cake?',
+    'multiple_choice',
+    '["2%", "6", "5%", "17%", "19.3%"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    2,
+    'Find the average of the first four prime numbers greater than 10.',
+    'multiple_choice',
+    '["20", "19", "17", "15", "13"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    2,
+    'Find the mean deviation of 6, 7, 8, 9, 10.',
+    'multiple_choice',
+    '["1.2", "1.5", "2", "8", "10"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    2,
+    'The variance of a given distribution is 25. What is the standard deviation?',
+    'multiple_choice',
+    '["125", "75", "50", "5", "3"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    2,
+    'Express 7/19 as a percentage, correct to 1 decimal place.',
+    'multiple_choice',
+    '["2.7%", "3.7%", "27.1%", "36.8%", "42.2%"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    2,
+    'Given that Log4(x) = -3, find x.',
+    'multiple_choice',
+    '["1/81", "1/64", "0.64", "88", "102"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    2,
+    'A chord of a circle radius 26cm is 10cm from the center of circle. Calculate the length of the chord.',
+    'multiple_choice',
+    '["16cm", "27.86cm", "32cm", "40cm", "48cm"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    6,
+    'Which of the following hormones is produced during fright or when agitated?',
+    'multiple_choice',
+    '["Insulin", "adrenalin", "thyroxine", "pituitrin", "glucagon"]',
+    NULL,
+    'medium',
+    'LUTH 2021',
+    2021
+  ),
+(
+    6,
+    'Which of the following animals is cold blooded?',
+    'multiple_choice',
+    '["cat", "lizard", "whale", "Bird", "dog"]',
+    NULL,
+    'medium',
+    'LUTH 2021',
+    2021
+  ),
+(
+    6,
+    'Spirogyra reproduces vegetatively by',
+    'multiple_choice',
+    '["spore production", "fragmentation", "multiple fission", "binary fission", "division"]',
+    NULL,
+    'medium',
+    'LUTH 2021',
+    2021
+  ),
+(
+    6,
+    'All the following are digestive enzymes except',
+    'multiple_choice',
+    '["bile", "lipase", "maltase", "pepsin", "ptyalin"]',
+    NULL,
+    'medium',
+    'LUTH 2021',
+    2021
+  ),
+(
+    6,
+    'If a 26 year old man married a one eyed woman and they had four children, how many of them would be blind like their father?',
+    'multiple_choice',
+    '["all", "3", "2", "1", "none"]',
+    NULL,
+    'medium',
+    'LUTH 2021',
+    2021
+  ),
+(
+    6,
+    'A tapeworm has no alimentary canal because',
+    'multiple_choice',
+    '["it is an antitrophe", "it does not feed", "it has no enzymes", "its body absorbs digested food", "it is long"]',
+    NULL,
+    'medium',
+    'LUTH 2021',
+    2021
+  ),
+(
+    6,
+    'Where is energy produced in the cell?',
+    'multiple_choice',
+    '["nucleus", "nucleolus", "Lysosomes", "mitochondria", "ribosome"]',
+    NULL,
+    'medium',
+    'LUTH 2021',
+    2021
+  ),
+(
+    6,
+    'Which of the following structure is not found in a female agama lizard?',
+    'multiple_choice',
+    '["pre-anal pads", "eardrums", "nuchal crest", "gular fold", "chloroplast"]',
+    NULL,
+    'medium',
+    'LUTH 2021',
+    2021
+  ),
+(
+    6,
+    'Which of the following disease is NOT caused by a virus?',
+    'multiple_choice',
+    '["rinderpest", "maize rust", "Newcastle disease", "swine fever", "nasal scale"]',
+    NULL,
+    'medium',
+    'LUTH 2021',
+    2021
+  ),
+(
+    3,
+    'Plants which can survive in places where the water supply is limited are',
+    'multiple_choice',
+    '["Bryophytes", "mesophytes", "xerophytes", "hygrophytes", "pteridophytes"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    3,
+    'Which of the following types of waves cannot travel through a vacuum?',
+    'multiple_choice',
+    '["sound waves", "light waves", "infra-red waves", "x-radiation", "radio waves"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    3,
+    'The temperature at which the water vapour in the air saturates the air and begins to condense is known as',
+    'multiple_choice',
+    '["boiling point", "melting point", "triple point", "dew point", "critical temperature"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    3,
+    'The motion of the moving skin of a talking drum can rightly be described as',
+    'multiple_choice',
+    '["translational", "random", "rotational", "oscillatory", "transitory"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    3,
+    'What is the relative permittivity of a capacitor if its capacitance with a medium as dielectric is 16 farads, and its capacitance with vacuum as dielectric is 2 farads?',
+    'multiple_choice',
+    '["-1", "-2", "2", "6", "8"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    3,
+    'The activity of a radioactive substance depends on',
+    'multiple_choice',
+    '["temperature and purity", "temperature and age", "age, purity and temperature", "purity and age", "none of the above"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    3,
+    'The principle of the transmissibility of pressure in fluids at rest in all directions is known as',
+    'multiple_choice',
+    '["Archimedes principle", "Floatation principle", "Newton's law", "Pascal's law", "Boyle's law"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    3,
+    'Change of state is accompanied by change of',
+    'multiple_choice',
+    '["temperature", "volume", "heat content", "temperature and volume", "volume and heat content"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    3,
+    'The lack of power of accommodation which is mainly due to the hardening of the eye is called',
+    'multiple_choice',
+    '["myopia", "hypermetropia", "presbyopia", "eye ring", "astigmatism"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    3,
+    'The hatch door of a submarine has an area of 0.5m². The specific gravity of sea water is 1.03. Assuming g = 10m/s² and neglecting the atmospheric pressure. The force exerted by sea water on the hatch door at a depth of 200m is',
+    'multiple_choice',
+    '["1.03\u00d710\u2075N", "1.03\u00d710\u00b3N", "1.06\u00d710\u2075N", "2.06\u00d710\u2076N", "1.03\u00d710\u2070N/m\u00b2"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    3,
+    'The point beyond which a stretching spring does not return to its original length is called',
+    'multiple_choice',
+    '["breaking point", "elastic limit", "spring constant", "elastic point", "release point"]',
+    NULL,
+    'hard',
+    'LUTH 2021',
+    2021
+  ),
+(
+    1,
+    'I have the……… of meeting him',
+    'multiple_choice',
+    '["privikege", "privilege", "previledge", "priviledge", "privileges"]',
+    NULL,
+    'medium',
+    'LUTH 2020',
+    2020
+  ),
+(
+    1,
+    'My price for the shoes is fifty naira I cannot …… anything less than that.',
+    'multiple_choice',
+    '["bear with", "settle for", "agree with", "tolerate", "settle with"]',
+    NULL,
+    'medium',
+    'LUTH 2020',
+    2020
+  ),
+(
+    1,
+    'The eldest son took a foolish decision which made him …… his claim to the traditional title',
+    'multiple_choice',
+    '["neglect", "yield", "disclaim", "forfeit", "neglected"]',
+    NULL,
+    'medium',
+    'LUTH 2020',
+    2020
+  ),
+(
+    1,
+    'The president''s speech……….at 7pm yesterday.',
+    'multiple_choice',
+    '["is broadcast", "has been broadcast", "were broadcast", "was broadcast", "have been broadcast"]',
+    NULL,
+    'medium',
+    'LUTH 2020',
+    2020
+  ),
+(
+    1,
+    'The students were-advised to look ………difficult words in the  dictionary.',
+    'multiple_choice',
+    '["in", "on", "out", "into", "Up"]',
+    NULL,
+    'medium',
+    'LUTH 2020',
+    2020
+  ),
+(
+    1,
+    'The building………because of weak structural foundation.',
+    'multiple_choice',
+    '["tumbled", "succumbed", "somersaulted", "collapsed", "fell"]',
+    NULL,
+    'medium',
+    'LUTH 2020',
+    2020
+  ),
+(
+    1,
+    'Since the writer did not indicate his name, the editor decided not to publish such…………article',
+    'multiple_choice',
+    '["a discourteous", "an anonymous", "a cowardly", "a libellous", "unfriendly"]',
+    NULL,
+    'medium',
+    'LUTH 2020',
+    2020
+  ),
+(
+    1,
+    'He was charged with complicity…………….the abortive coup.',
+    'multiple_choice',
+    '["in", "for", "about", "on", "with"]',
+    NULL,
+    'medium',
+    'LUTH 2020',
+    2020
+  ),
+(
+    1,
+    'Of what he said made no sense.',
+    'multiple_choice',
+    '["much", "majority", "plenty", "many", "most"]',
+    NULL,
+    'medium',
+    'LUTH 2020',
+    2020
+  ),
+(
+    1,
+    'things she had in the room were thrown out.',
+    'multiple_choice',
+    '["so few", "the few", "all few", "very few", "a few"]',
+    NULL,
+    'medium',
+    'LUTH 2020',
+    2020
+  ),
+(
+    4,
+    'Pure solvents are obtained by',
+    'multiple_choice',
+    '["distillation", "condensation", "extraction", "evaporation", "dissolution"]',
+    NULL,
+    'hard',
+    'LUTH 2020',
+    2020
+  ),
+(
+    4,
+    'Environmental pollution is worsened by the release from the automobile exhaust of',
+    'multiple_choice',
+    '["water vapour", "steam", "smoke", "heavy metals", "steam and smoke"]',
+    NULL,
+    'hard',
+    'LUTH 2020',
+    2020
+  ),
+(
+    4,
+    'Sieving is a technique used to separate mixtures containing solid particles of',
+    'multiple_choice',
+    '["small sizes", "large sizes", "different sizes", "the same size", "one size"]',
+    NULL,
+    'hard',
+    'LUTH 2020',
+    2020
+  ),
+(
+    4,
+    'Nitrogen obtained from the liquefaction of air has a higher density than that obtained from nitrogen containing compounds because the former contains',
+    'multiple_choice',
+    '["water vapour", "oxygen", "carbon (IV) oxide", "rare gases", "nitrogen"]',
+    NULL,
+    'hard',
+    'LUTH 2020',
+    2020
+  ),
+(
+    4,
+    'Hydrogen is used in oxy-hydrogen flames for melting metals because it',
+    'multiple_choice',
+    '["involves a lot of heat when burnt", "combines explosively with oxygen", "is a very light gas", "is a rocket fuel", "combines with air"]',
+    NULL,
+    'hard',
+    'LUTH 2020',
+    2020
+  ),
+(
+    4,
+    'Polyvinyl chloride is used to produce',
+    'multiple_choice',
+    '["bread", "pencils", "ink", "pipes", "pots"]',
+    NULL,
+    'hard',
+    'LUTH 2020',
+    2020
+  ),
+(
+    4,
+    'The addition of water to calcium oxide leads to',
+    'multiple_choice',
+    '["a physical change", "a chemical change", "the formation of a mixture", "an endothermic change", "no change"]',
+    NULL,
+    'hard',
+    'LUTH 2020',
+    2020
+  ),
+(
+    4,
+    'The metal that will react with water only in the form of steam to liberate hydrogen gas is',
+    'multiple_choice',
+    '["calcium", "aluminum", "iron", "zinc", "platinum"]',
+    NULL,
+    'hard',
+    'LUTH 2020',
+    2020
+  ),
+(
+    4,
+    '35cm³ of hydrogen was sparked with 12cm³ of oxygen at 110°c and 760mmHg to produce steam. What percentage of the total volume of gas left after the reaction is hydrogen?',
+    'multiple_choice',
+    '["11%", "31%", "35%", "69%", "80%"]',
+    NULL,
+    'hard',
+    'LUTH 2020',
+    2020
+  ),
+(
+    4,
+    'In the extraction of iron in the blast furnace, limestone is used to',
+    'multiple_choice',
+    '["release CO2 for the reaction", "reduce the iron ore", "increase the strength of the iron", "remove impurities", "provide oxygen"]',
+    NULL,
+    'hard',
+    'LUTH 2020',
+    2020
+  );
+
+COMMIT;

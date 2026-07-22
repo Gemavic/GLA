@@ -1,0 +1,652 @@
+[
+  {
+    "year": 2022,
+    "subject": "english",
+    "q_num": 1,
+    "text": "Without \u2026\u2026\u2026\u2026.words he accused him directly of treachery.",
+    "options": [
+      "amending",
+      "modifying",
+      "mixing",
+      "mincing",
+      "minimizing"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "english",
+    "q_num": 2,
+    "text": "They tried to cash in the people ignorance",
+    "options": [
+      "under",
+      "on",
+      "against",
+      "with",
+      "at"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "english",
+    "q_num": 3,
+    "text": "Always remember to\u2026\u2026\u2026\u2026\u2026the lights before leaving the room",
+    "options": [
+      "put on",
+      "put off",
+      "switch off",
+      "blow out",
+      "remove"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "english",
+    "q_num": 4,
+    "text": "I am disappointed the ways you conducted yourself at the party.",
+    "options": [
+      "by",
+      "for",
+      "due",
+      "in",
+      "at"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "english",
+    "q_num": 5,
+    "text": "The proprietors should be blamed for such a deplorable condition in the nursery schools\u2026\u2026\u2026\u2026",
+    "options": [
+      "isn't it",
+      "shouldn't they",
+      "should they",
+      "isit",
+      "wouldn't they"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "english",
+    "q_num": 6,
+    "text": "Do you mind\u2026\u2026\u2026another  minute  or  two?",
+    "options": [
+      "to wait",
+      "wait",
+      "waiting",
+      "being waited",
+      "waits"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "english",
+    "q_num": 7,
+    "text": "It had been raining before the match started\u2026\u2026\u2026\u2026",
+    "options": [
+      "isn'tit",
+      "hasn't it",
+      "hadn't it",
+      "wasn't it",
+      "haven't it"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "english",
+    "q_num": 8,
+    "text": "Mary goes to school\u2026\u2026bus",
+    "options": [
+      "in",
+      "on",
+      "with",
+      "of",
+      "by"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "english",
+    "q_num": 9,
+    "text": "The plane overshot the\u2026\u2026\u2026\u2026in a minor accident",
+    "options": [
+      "read",
+      "hanger",
+      "runway",
+      "tarmac",
+      "railway"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "english",
+    "q_num": 10,
+    "text": "Journalists always collect and publish\u2026\u2026\u2026",
+    "options": [
+      "information",
+      "informations",
+      "an information",
+      "much information",
+      "every information"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "mathematics",
+    "q_num": 11,
+    "text": "A micrometer is defined as one millionth of a millimeter. A length of 12,000 micrometer may be represented as?",
+    "options": [
+      "0.00012M",
+      "0.0000012M",
+      "0.000012M",
+      "0.00000012M",
+      "0.000000012M"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "mathematics",
+    "q_num": 12,
+    "text": "Factorize 3x\u00b3+4x\u00b2-13x+6 completely, given that x-1 is a factor.",
+    "options": [
+      "(x-1)(x-3)(x+2)",
+      "(x-1)(x+3)(x-2)",
+      "(x-1)(x+3)(3x-2)",
+      "(x-1)(x+3)(3x-2)",
+      "(x-1)(x-3)(x+2)"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "mathematics",
+    "q_num": 13,
+    "text": "If the price of oranges was raised by %k per orange, the number of oranges a customer can buy for N2.40 will be less by 16. What is the price of an orange?",
+    "options": [
+      "2.5k",
+      "3.5k",
+      "5.5k",
+      "20k",
+      "25k"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "mathematics",
+    "q_num": 14,
+    "text": "Find all real numbers x which satisfies the inequality 1/3(x+1)+1>1/5(x+4).",
+    "options": [
+      "x<11",
+      "x<-1",
+      "x>6",
+      "x=11",
+      "x>-6"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "mathematics",
+    "q_num": 15,
+    "text": "7 pupils of average age 12 years leave a class of 25 pupils average age 14 years. If 6 new pupils of average age 11 years join the class, what is the average age of the pupils now in the class?",
+    "options": [
+      "13 years",
+      "12 years 6 months",
+      "13 years 5 months",
+      "13 years 10 months",
+      "13 years 7.5 months"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "mathematics",
+    "q_num": 16,
+    "text": "Given a regular hexagon, calculate each interior angle of the hexagon",
+    "options": [
+      "60\u00b0",
+      "120\u00b0",
+      "45\u00b0",
+      "135\u00b0",
+      "140\u00b0"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "mathematics",
+    "q_num": 17,
+    "text": "Without using tables, solve the equation: 8x\u00b2=2/5.",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10",
+      "12"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "mathematics",
+    "q_num": 18,
+    "text": "A student measures a piece of rope and found that it was 1.26m long. If the actual length of the rope is 1.25m, what was the percentage error in the measurement?",
+    "options": [
+      "0.40%",
+      "0.01%",
+      "0.25%",
+      "0.89%",
+      "0.80%"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "mathematics",
+    "q_num": 19,
+    "text": "Express the product of 0.21 and 0.34 in standard form",
+    "options": [
+      "7.14\u00d710\u00b3",
+      "7.14\u00d710\u00b9",
+      "7.14\u00d710\u00b2",
+      "7.14\u00d710\u2074",
+      "7.14\u00d710\u2075"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "mathematics",
+    "q_num": 20,
+    "text": "If 5, 8, 6 and 2 occur with frequencies 3, 2, 4 and 1 respectively, find the product of the modal and median number",
+    "options": [
+      "36",
+      "48",
+      "30",
+      "40",
+      "None of the above"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "biology",
+    "q_num": 21,
+    "text": "A plant which grows on another plant without apparent harm to the host plant is called",
+    "options": [
+      "a parasite",
+      "an epiphyte",
+      "a saprophyte",
+      "a predator",
+      "a hermaphrodite"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "biology",
+    "q_num": 22,
+    "text": "Which of these types of skeleton is most appropriate to the cockroach?",
+    "options": [
+      "hydrostatic skeleton",
+      "exoskeleton",
+      "endoskeleton",
+      "cartilaginous skeleton",
+      "bony skeleton"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "biology",
+    "q_num": 23,
+    "text": "Which of these is not true of the insect? The possession of",
+    "options": [
+      "two pairs of antennae",
+      "jointed appendages",
+      "exoskeleton",
+      "three pairs of legs",
+      "segmented body"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "biology",
+    "q_num": 24,
+    "text": "All living things",
+    "options": [
+      "photosynthesis",
+      "respire",
+      "move",
+      "transpire",
+      "feed"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "biology",
+    "q_num": 25,
+    "text": "A secchi disc is used in the determination of",
+    "options": [
+      "rainfall",
+      "tides",
+      "waves",
+      "turbidity",
+      "current velocity"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "biology",
+    "q_num": 26,
+    "text": "Which of the following is not an excretory product?",
+    "options": [
+      "urine",
+      "sweat",
+      "feces",
+      "salts",
+      "carbon dioxide"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "biology",
+    "q_num": 27,
+    "text": "Which of the following organs produce bile?",
+    "options": [
+      "gallbladder",
+      "pancreas",
+      "spleen",
+      "liver",
+      "stomach"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "biology",
+    "q_num": 28,
+    "text": "Which of the following food substances is digested in the stomach?",
+    "options": [
+      "carbohydrates",
+      "fats and oil",
+      "fats and proteins",
+      "proteins",
+      "carbohydrates and fats"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "biology",
+    "q_num": 29,
+    "text": "For pollination and fruit formation, the essential part(s) of the flower should be the",
+    "options": [
+      "corolla",
+      "ovary",
+      "pistil (gynoecium)",
+      "ovules",
+      "receptacle"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "biology",
+    "q_num": 30,
+    "text": "Which part of the human brain is concerned with reflexes controlling the rate of heartbeat and breathing?",
+    "options": [
+      "medulla",
+      "cerebrum",
+      "cerebellum",
+      "pineal body",
+      "olfactory lobe"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "physics",
+    "q_num": 31,
+    "text": "Which of the following is not a consequence of a force field?",
+    "options": [
+      "weight",
+      "surface tension",
+      "gravitational pull",
+      "magnetic force",
+      "electric force"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "physics",
+    "q_num": 32,
+    "text": "Which of the following is used to determine the relative density of the acid in a car battery?",
+    "options": [
+      "hypsometer",
+      "hygrometer",
+      "manometer",
+      "hydrometer",
+      "nanometer"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "physics",
+    "q_num": 33,
+    "text": "The motion of the prongs of sounding tuning fork is?",
+    "options": [
+      "random",
+      "translational",
+      "rotational",
+      "vibration",
+      "vibratory and rotational"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "physics",
+    "q_num": 34,
+    "text": "A simple microscope forms an image twice the size of an object. If the focal length of the lens of microscope is 29cm, how far is the object from the lens?",
+    "options": [
+      "10m",
+      "20m",
+      "30m",
+      "40m",
+      "60m"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "physics",
+    "q_num": 35,
+    "text": "An avocado fruit drops from the top of a tree 45m tall. How long does it take to reach the ground?",
+    "options": [
+      "3.0s",
+      "4.5s",
+      "6.0s",
+      "8.6s",
+      "9.0s"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "physics",
+    "q_num": 36,
+    "text": "Which of the following is a scalar quantity?",
+    "options": [
+      "momentum",
+      "Acceleration",
+      "displacement",
+      "Distance",
+      "force"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "physics",
+    "q_num": 37,
+    "text": "A ball bearing is gently released from rest and allowed to fall through a viscous fluid. Which of the following statements about the motion is correct?",
+    "options": [
+      "its acceleration decreases before terminal velocity is attained",
+      "when terminal velocity is attained the acceleration of the fluid becomes zero",
+      "its velocity increases before terminal velocity is attained",
+      "there is no resultant force on the ball before it attains terminal velocity",
+      "acceleration increases uniformly"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "chemistry",
+    "q_num": 38,
+    "text": "When the vapour of a substance is in equilibrium with its own liquid, it is said to be",
+    "options": [
+      "gaseous",
+      "unsaturated",
+      "saturated",
+      "diffused",
+      "liquefied"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "physics",
+    "q_num": 39,
+    "text": "A man standing between two parallel mirrors in a barbers shop will see the following number of his own image",
+    "options": [
+      "eight",
+      "two",
+      "four",
+      "one",
+      "Infinite"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "physics",
+    "q_num": 40,
+    "text": "If the wave length of a wave traveling with a velocity of 360m/s is 60cm, the period of the wave is",
+    "options": [
+      "6s",
+      "3.5s",
+      "0.17s",
+      "0.61s",
+      "3s"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "chemistry",
+    "q_num": 41,
+    "text": "120cm\u00b3 of hydrogen were sparked with 60cm\u00b3 of oxygen at 110\u00b0c. What was the volume of steam produced? The equation for the reaction is: 2H2(g)+O2(g)\u21922H2O(g)",
+    "options": [
+      "30cm\u00b3",
+      "60cm\u00b3",
+      "90cm\u00b3",
+      "120cm\u00b3",
+      "150cm\u00b3"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "chemistry",
+    "q_num": 42,
+    "text": "Catalytic hydrogenation of oils results in the production of",
+    "options": [
+      "soaps",
+      "detergents",
+      "alkanes",
+      "margarine",
+      "Butter"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "chemistry",
+    "q_num": 43,
+    "text": "Which of the following compounds will undergo additional reaction?",
+    "options": [
+      "ethyne",
+      "butane",
+      "pentane",
+      "ethanol",
+      "tetrachloromethane"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "chemistry",
+    "q_num": 44,
+    "text": "The products of the electrolysis of dilute sodium chloride solution with platinum electrodes are",
+    "options": [
+      "hydrogen and oxygen",
+      "oxygen and chlorine",
+      "chlorine and water",
+      "sodium amalgam and chlorine",
+      "sodium hydroxide and water"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "chemistry",
+    "q_num": 45,
+    "text": "When starch undergoes complete enzyme-catalysed hydrolysis, the resulting product is",
+    "options": [
+      "glucose",
+      "maltose",
+      "sucrose",
+      "fructose",
+      "cellulose"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "chemistry",
+    "q_num": 46,
+    "text": "Compounds that have the same molecular formula but different structures are said to be",
+    "options": [
+      "allotropic",
+      "polymorphic",
+      "polymeric",
+      "isomeric",
+      "isotropic"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "chemistry",
+    "q_num": 47,
+    "text": "The maximum number of electrons that can be accommodated in the shell having the principal quantum number 3 is",
+    "options": [
+      "3",
+      "9",
+      "10",
+      "18",
+      "32"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "chemistry",
+    "q_num": 48,
+    "text": "The following acids are non-basic except",
+    "options": [
+      "methanoic acid",
+      "dioxinotrate acid",
+      "ethanedoic",
+      "oxochlorate acid",
+      "hydrobromic acid"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "chemistry",
+    "q_num": 49,
+    "text": "What is the quantity of electricity produced when a current of 0.5A is passed for 5 hours 45 mins? (F=96500C)",
+    "options": [
+      "0.11F",
+      "0.12F",
+      "0.22F",
+      "1.1F",
+      "2.2F"
+    ]
+  },
+  {
+    "year": 2022,
+    "subject": "chemistry",
+    "q_num": 50,
+    "text": "Which of the following pH values is likely to be that of slightly alkaline system?",
+    "options": [
+      "2",
+      "5",
+      "7",
+      "8",
+      "13"
+    ]
+  }
+]

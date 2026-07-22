@@ -1,0 +1,19 @@
+LUTH Question Loading Summary
+==============================
+
+Total Questions: 460
+Micro-Batches Created: 23
+Questions per Batch: 20 (except last batch with 20)
+
+Batch Files Location:
+/tmp/cc-agent/63523149/project/supabase/migrations/20260216_luth_micro_batch_*.sql
+
+Strategy:
+- Each micro-batch is a standalone DO block
+- Each batch selects the necessary UUIDs for LUTH subjects
+- Each batch inserts exactly 20 questions (except last batch)
+- All questions default to correct_answer='A', difficulty='medium'
+
+To apply all batches, execute each SQL file sequentially using the Supabase migration tool or execute_sql command.
+
+Batches ready for application!

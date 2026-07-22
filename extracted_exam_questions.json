@@ -1,0 +1,3314 @@
+[
+  {
+    "question_text": "Choose the correct spelling:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Accomodation",
+      "Accommodation",
+      "Acommodation",
+      "Acomodation"
+    ],
+    "correct_answer": "Accommodation",
+    "topic": "Spelling",
+    "subject": "Mathematics",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "The correct spelling has double c and double m"
+  },
+  {
+    "question_text": "The word \"benevolent\" means:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Harmful",
+      "Kind and generous",
+      "Angry",
+      "Sad"
+    ],
+    "correct_answer": "Kind and generous",
+    "topic": "Vocabulary",
+    "subject": "Mathematics",
+    "difficulty": "medium",
+    "year": 2022,
+    "explanation": "Benevolent means well-meaning and kindly"
+  },
+  {
+    "question_text": "Identify the noun in: \"The quick brown fox jumps over the lazy dog\"",
+    "question_type": "multiple_choice",
+    "options": [
+      "quick",
+      "brown",
+      "jumps",
+      "fox"
+    ],
+    "correct_answer": "fox",
+    "topic": "Parts of Speech",
+    "subject": "Mathematics",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "Fox is a noun (person, place, thing, or animal)"
+  },
+  {
+    "question_text": "Which sentence is grammatically correct?",
+    "question_type": "multiple_choice",
+    "options": [
+      "She don''t like apples",
+      "She doesn''t likes apples",
+      "She doesn''t like apples",
+      "She don''t likes apples"
+    ],
+    "correct_answer": "She doesn't like apples",
+    "topic": "Grammar",
+    "subject": "Mathematics",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "Third person singular requires doesn't + base verb"
+  },
+  {
+    "question_text": "The plural of \"criterion\" is:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Criterions",
+      "Criteria",
+      "Criterias",
+      "Criterium"
+    ],
+    "correct_answer": "Criteria",
+    "topic": "Vocabulary",
+    "subject": "Mathematics",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "Criterion is Greek origin, plural is criteria"
+  },
+  {
+    "question_text": "Choose the correct preposition: \"She arrived ___ Monday\"",
+    "question_type": "multiple_choice",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct_answer": "on",
+    "topic": "Prepositions",
+    "subject": "Mathematics",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "Use \"on\" with days of the week"
+  },
+  {
+    "question_text": "An antonym of \"generous\" is:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Stingy",
+      "Kind",
+      "Wealthy",
+      "Happy"
+    ],
+    "correct_answer": "Stingy",
+    "topic": "Vocabulary",
+    "subject": "Mathematics",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "Stingy means unwilling to give or spend"
+  },
+  {
+    "question_text": "\"Running quickly\" is an example of:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Noun phrase",
+      "Verb phrase",
+      "Adjective phrase",
+      "Prepositional phrase"
+    ],
+    "correct_answer": "Verb phrase",
+    "topic": "Phrases",
+    "subject": "Mathematics",
+    "difficulty": "medium",
+    "year": 2022,
+    "explanation": "It contains a verb (running) modified by an adverb"
+  },
+  {
+    "question_text": "The passive voice of \"John wrote a letter\" is:",
+    "question_type": "multiple_choice",
+    "options": [
+      "A letter is written by John",
+      "A letter was written by John",
+      "A letter has been written by John",
+      "A letter had been written by John"
+    ],
+    "correct_answer": "A letter was written by John",
+    "topic": "Voice",
+    "subject": "Mathematics",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "Simple past active becomes simple past passive"
+  },
+  {
+    "question_text": "Choose the correct punctuation: \"Whats your name\"",
+    "question_type": "multiple_choice",
+    "options": [
+      "What''s your name?",
+      "Whats your name.",
+      "What''s your name.",
+      "Whats your name?"
+    ],
+    "correct_answer": "What's your name?",
+    "topic": "Punctuation",
+    "subject": "Mathematics",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "Contraction needs apostrophe, question needs question mark"
+  },
+  {
+    "question_text": "The basic unit of life is:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Tissue",
+      "Organ",
+      "Cell",
+      "Organism"
+    ],
+    "correct_answer": "Cell",
+    "topic": "Cell Biology",
+    "subject": "Chemistry",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "The cell is the smallest structural and functional unit of life"
+  },
+  {
+    "question_text": "Photosynthesis takes place in:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Mitochondria",
+      "Chloroplast",
+      "Nucleus",
+      "Ribosome"
+    ],
+    "correct_answer": "Chloroplast",
+    "topic": "Plant Biology",
+    "subject": "Chemistry",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "Chloroplasts contain chlorophyll for photosynthesis"
+  },
+  {
+    "question_text": "The powerhouse of the cell is:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondria",
+      "Golgi body"
+    ],
+    "correct_answer": "Mitochondria",
+    "topic": "Cell Biology",
+    "subject": "Chemistry",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "Mitochondria produce ATP through cellular respiration"
+  },
+  {
+    "question_text": "Blood is pumped by the:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Lungs",
+      "Liver",
+      "Heart",
+      "Kidney"
+    ],
+    "correct_answer": "Heart",
+    "topic": "Human Biology",
+    "subject": "Chemistry",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "The heart is a muscular organ that pumps blood"
+  },
+  {
+    "question_text": "Which vitamin is produced by sunlight on the skin?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin E"
+    ],
+    "correct_answer": "Vitamin D",
+    "topic": "Nutrition",
+    "subject": "Chemistry",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "UV light converts cholesterol to Vitamin D"
+  },
+  {
+    "question_text": "The process by which organisms produce offspring is:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Respiration",
+      "Reproduction",
+      "Excretion",
+      "Nutrition"
+    ],
+    "correct_answer": "Reproduction",
+    "topic": "Reproduction",
+    "subject": "Chemistry",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "Reproduction ensures continuity of species"
+  },
+  {
+    "question_text": "Red blood cells are produced in:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Heart",
+      "Bone marrow",
+      "Liver",
+      "Spleen"
+    ],
+    "correct_answer": "Bone marrow",
+    "topic": "Human Biology",
+    "subject": "Chemistry",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "Red bone marrow produces blood cells"
+  },
+  {
+    "question_text": "An organism that feeds on dead organic matter is:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Producer",
+      "Consumer",
+      "Decomposer",
+      "Predator"
+    ],
+    "correct_answer": "Decomposer",
+    "topic": "Ecology",
+    "subject": "Chemistry",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "Decomposers break down dead organisms"
+  },
+  {
+    "question_text": "DNA stands for:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Deoxyribonucleic acid",
+      "Diribonucleic acid",
+      "Deoxyribonitric acid",
+      "Diribonuclear acid"
+    ],
+    "correct_answer": "Deoxyribonucleic acid",
+    "topic": "Genetics",
+    "subject": "Chemistry",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "DNA is the genetic material in most organisms"
+  },
+  {
+    "question_text": "The organ responsible for filtering blood is:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Heart",
+      "Liver",
+      "Kidney",
+      "Lungs"
+    ],
+    "correct_answer": "Kidney",
+    "topic": "Excretion",
+    "subject": "Chemistry",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "Kidneys filter waste products from blood"
+  },
+  {
+    "question_text": "Democracy is government by the:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Rich",
+      "Military",
+      "People",
+      "Elders"
+    ],
+    "correct_answer": "People",
+    "topic": "Democracy",
+    "subject": "Economics",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "Democracy means rule by the people"
+  },
+  {
+    "question_text": "The three arms of government are:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Executive, Legislature, Judiciary",
+      "President, Senate, Army",
+      "Federal, State, Local",
+      "Police, Army, Navy"
+    ],
+    "correct_answer": "Executive, Legislature, Judiciary",
+    "topic": "Arms of Government",
+    "subject": "Economics",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "Separation of powers into three branches"
+  },
+  {
+    "question_text": "The head of the executive in Nigeria is the:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Speaker",
+      "Chief Justice",
+      "President",
+      "Senate President"
+    ],
+    "correct_answer": "President",
+    "topic": "Executive",
+    "subject": "Economics",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "The President heads the executive arm"
+  },
+  {
+    "question_text": "Federalism is a system where power is:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Centralized",
+      "Divided between central and regional governments",
+      "Held by one person",
+      "Held by the military"
+    ],
+    "correct_answer": "Divided between central and regional governments",
+    "topic": "Federalism",
+    "subject": "Economics",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "Federalism shares power between levels of government"
+  },
+  {
+    "question_text": "The right to vote is called:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Citizenship",
+      "Franchise",
+      "Democracy",
+      "Liberty"
+    ],
+    "correct_answer": "Franchise",
+    "topic": "Elections",
+    "subject": "Economics",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "Franchise/suffrage is the right to vote in elections"
+  },
+  {
+    "question_text": "A constitution is:",
+    "question_type": "multiple_choice",
+    "options": [
+      "A law book",
+      "The fundamental law of a country",
+      "A history book",
+      "A policy document"
+    ],
+    "correct_answer": "The fundamental law of a country",
+    "topic": "Constitution",
+    "subject": "Economics",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "The constitution is the supreme law"
+  },
+  {
+    "question_text": "Impeachment is the process of:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Electing a president",
+      "Removing a president from office",
+      "Appointing ministers",
+      "Passing laws"
+    ],
+    "correct_answer": "Removing a president from office",
+    "topic": "Executive",
+    "subject": "Economics",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "Impeachment is the legislative process to remove officials"
+  },
+  {
+    "question_text": "The legislature makes:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Judgments",
+      "Laws",
+      "Appointments",
+      "Wars"
+    ],
+    "correct_answer": "Laws",
+    "topic": "Legislature",
+    "subject": "Economics",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "The legislature's primary function is lawmaking"
+  },
+  {
+    "question_text": "One-party system is found in:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Democracy",
+      "Autocracy",
+      "Theocracy",
+      "Federalism"
+    ],
+    "correct_answer": "Autocracy",
+    "topic": "Political Systems",
+    "subject": "Economics",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "Autocratic systems often have single-party rule"
+  },
+  {
+    "question_text": "INEC stands for:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Independent National Electoral Commission",
+      "Internal National Electoral Council",
+      "Independent Nigerian Electoral Committee",
+      "Internal Nigerian Election Commission"
+    ],
+    "correct_answer": "Independent National Electoral Commission",
+    "topic": "Elections",
+    "subject": "Economics",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "INEC conducts elections in Nigeria"
+  },
+  {
+    "question_text": "The de Broglie wavelength of a particle is given by:",
+    "question_type": "multiple_choice",
+    "options": [
+      "λ = h/p",
+      "λ = p/h",
+      "λ = hν",
+      "λ = c/ν"
+    ],
+    "correct_answer": "λ = h/p",
+    "topic": "Quantum Physics",
+    "subject": "Mathematics",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "de Broglie wavelength relates wavelength to momentum"
+  },
+  {
+    "question_text": "In photoelectric effect, the stopping potential depends on:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Intensity of light",
+      "Frequency of light",
+      "Area of metal surface",
+      "Temperature"
+    ],
+    "correct_answer": "Frequency of light",
+    "topic": "Photoelectric Effect",
+    "subject": "Mathematics",
+    "difficulty": "medium",
+    "year": 2022,
+    "explanation": "Stopping potential depends on photon energy (frequency)"
+  },
+  {
+    "question_text": "The binding energy per nucleon is maximum for:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Hydrogen",
+      "Iron",
+      "Uranium",
+      "Helium"
+    ],
+    "correct_answer": "Iron",
+    "topic": "Nuclear Physics",
+    "subject": "Mathematics",
+    "difficulty": "hard",
+    "year": 2023,
+    "explanation": "Iron-56 has the highest binding energy per nucleon"
+  },
+  {
+    "question_text": "Heisenberg's uncertainty principle states:",
+    "question_type": "multiple_choice",
+    "options": [
+      "ΔxΔp ≥ ℏ/2",
+      "ΔxΔp = 0",
+      "ΔxΔp ≤ ℏ/2",
+      "ΔxΔp = ℏ"
+    ],
+    "correct_answer": "ΔxΔp ≥ ℏ/2",
+    "topic": "Quantum Mechanics",
+    "subject": "Mathematics",
+    "difficulty": "hard",
+    "year": 2022,
+    "explanation": "Position and momentum cannot both be precisely known"
+  },
+  {
+    "question_text": "The time period of a simple pendulum on the moon:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "Becomes zero"
+    ],
+    "correct_answer": "Increases",
+    "topic": "Oscillations",
+    "subject": "Mathematics",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "T = 2π√(l/g), lower g on moon increases T"
+  },
+  {
+    "question_text": "In Young's double slit experiment, fringe width β is:",
+    "question_type": "multiple_choice",
+    "options": [
+      "λD/d",
+      "λd/D",
+      "d/λD",
+      "D/λd"
+    ],
+    "correct_answer": "λD/d",
+    "topic": "Wave Optics",
+    "subject": "Mathematics",
+    "difficulty": "medium",
+    "year": 2022,
+    "explanation": "β = λD/d where D is screen distance, d is slit separation"
+  },
+  {
+    "question_text": "The escape velocity from Earth is approximately:",
+    "question_type": "multiple_choice",
+    "options": [
+      "7.9 km/s",
+      "11.2 km/s",
+      "3.1 km/s",
+      "17.5 km/s"
+    ],
+    "correct_answer": "11.2 km/s",
+    "topic": "Gravitation",
+    "subject": "Mathematics",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "ve = √(2GM/R) ≈ 11.2 km/s for Earth"
+  },
+  {
+    "question_text": "Carnot efficiency of a heat engine operating between 500K and 300K is:",
+    "question_type": "multiple_choice",
+    "options": [
+      "40%",
+      "60%",
+      "50%",
+      "80%"
+    ],
+    "correct_answer": "40%",
+    "topic": "Thermodynamics",
+    "subject": "Mathematics",
+    "difficulty": "medium",
+    "year": 2022,
+    "explanation": "η = 1 - Tc/Th = 1 - 300/500 = 0.4 = 40%"
+  },
+  {
+    "question_text": "The magnetic force on a current-carrying wire is:",
+    "question_type": "multiple_choice",
+    "options": [
+      "F = BIL sinθ",
+      "F = BIL cosθ",
+      "F = BI/L",
+      "F = BL/I"
+    ],
+    "correct_answer": "F = BIL sinθ",
+    "topic": "Electromagnetism",
+    "subject": "Mathematics",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "Force depends on current, length, field, and angle"
+  },
+  {
+    "question_text": "The dimension of Planck's constant is:",
+    "question_type": "multiple_choice",
+    "options": [
+      "ML²T⁻¹",
+      "ML²T⁻²",
+      "MLT⁻¹",
+      "M²LT⁻¹"
+    ],
+    "correct_answer": "ML²T⁻¹",
+    "topic": "Dimensional Analysis",
+    "subject": "Mathematics",
+    "difficulty": "hard",
+    "year": 2022,
+    "explanation": "h has dimensions of energy × time or momentum × length"
+  },
+  {
+    "question_text": "The Krebs cycle occurs in:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Cytoplasm",
+      "Mitochondrial matrix",
+      "Inner mitochondrial membrane",
+      "Nucleus"
+    ],
+    "correct_answer": "Mitochondrial matrix",
+    "topic": "Respiration",
+    "subject": "Chemistry",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "Krebs cycle is the second stage of aerobic respiration"
+  },
+  {
+    "question_text": "Hardy-Weinberg equilibrium assumes:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Random mating",
+      "Natural selection",
+      "Mutation",
+      "Gene flow"
+    ],
+    "correct_answer": "Random mating",
+    "topic": "Population Genetics",
+    "subject": "Chemistry",
+    "difficulty": "hard",
+    "year": 2022,
+    "explanation": "H-W equilibrium requires no evolution and random mating"
+  },
+  {
+    "question_text": "The lac operon is an example of:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Positive regulation",
+      "Negative regulation",
+      "Constitutive expression",
+      "Post-translational modification"
+    ],
+    "correct_answer": "Negative regulation",
+    "topic": "Gene Regulation",
+    "subject": "Chemistry",
+    "difficulty": "hard",
+    "year": 2023,
+    "explanation": "The lac operon is repressed in absence of lactose"
+  },
+  {
+    "question_text": "In C4 plants, CO₂ is first fixed in:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Mesophyll cells",
+      "Bundle sheath cells",
+      "Guard cells",
+      "Epidermal cells"
+    ],
+    "correct_answer": "Mesophyll cells",
+    "topic": "Photosynthesis",
+    "subject": "Chemistry",
+    "difficulty": "hard",
+    "year": 2022,
+    "explanation": "CO₂ first forms C4 acid in mesophyll, then moves to bundle sheath"
+  },
+  {
+    "question_text": "Action potential propagation is:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Decremental",
+      "All-or-none",
+      "Graded",
+      "Continuous decrease"
+    ],
+    "correct_answer": "All-or-none",
+    "topic": "Nervous System",
+    "subject": "Chemistry",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "Action potentials are non-decremental and all-or-none"
+  },
+  {
+    "question_text": "The fluid mosaic model describes:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Cell wall",
+      "Cell membrane",
+      "Nuclear envelope",
+      "Endoplasmic reticulum"
+    ],
+    "correct_answer": "Cell membrane",
+    "topic": "Cell Biology",
+    "subject": "Chemistry",
+    "difficulty": "medium",
+    "year": 2022,
+    "explanation": "Singer-Nicolson model of membrane structure"
+  },
+  {
+    "question_text": "Crossing over occurs during:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Prophase I",
+      "Metaphase I",
+      "Anaphase II",
+      "Telophase I"
+    ],
+    "correct_answer": "Prophase I",
+    "topic": "Meiosis",
+    "subject": "Chemistry",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "Crossing over between homologous chromosomes in Prophase I"
+  },
+  {
+    "question_text": "The enzyme that unwinds DNA is:",
+    "question_type": "multiple_choice",
+    "options": [
+      "DNA polymerase",
+      "Helicase",
+      "Ligase",
+      "Primase"
+    ],
+    "correct_answer": "Helicase",
+    "topic": "DNA Replication",
+    "subject": "Chemistry",
+    "difficulty": "medium",
+    "year": 2022,
+    "explanation": "Helicase breaks hydrogen bonds between base pairs"
+  },
+  {
+    "question_text": "Restriction enzymes are used in:",
+    "question_type": "multiple_choice",
+    "options": [
+      "Protein synthesis",
+      "Genetic engineering",
+      "Respiration",
+      "Photosynthesis"
+    ],
+    "correct_answer": "Genetic engineering",
+    "topic": "Biotechnology",
+    "subject": "Chemistry",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "Restriction enzymes cut DNA at specific sequences"
+  },
+  {
+    "question_text": "The collecting duct is most permeable to water when:",
+    "question_type": "multiple_choice",
+    "options": [
+      "ADH is low",
+      "ADH is high",
+      "Aldosterone is low",
+      "Aldosterone is absent"
+    ],
+    "correct_answer": "ADH is high",
+    "topic": "Excretion",
+    "subject": "Chemistry",
+    "difficulty": "hard",
+    "year": 2022,
+    "explanation": "ADH increases water reabsorption in collecting duct"
+  },
+  {
+    "question_text": "What is the electronic configuration of sodium (Na)?",
+    "question_type": "multiple_choice",
+    "options": [
+      "1s2 2s2 2p6 3s1",
+      "1s2 2s2 2p6 3s2 3p1",
+      "1s2 2s2 2p5 3s2",
+      "1s2 2s1 2p6"
+    ],
+    "correct_answer": "1s2 2s2 2p6 3s1",
+    "topic": "Atomic Structure",
+    "subject": "Chemistry",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "Sodium has an atomic number of 11. Its electrons fill: 1s2 (2), 2s2 (2), 2p6 (6), 3s1 (1) = 11 electrons total."
+  },
+  {
+    "question_text": "Which of the following has the highest electronegativity?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Oxygen",
+      "Fluorine",
+      "Nitrogen",
+      "Chlorine"
+    ],
+    "correct_answer": "Fluorine",
+    "topic": "Periodicity",
+    "subject": "Chemistry",
+    "difficulty": "medium",
+    "year": 2022,
+    "explanation": "Fluorine has the highest electronegativity value (4.0 on the Pauling scale). It is the most electronegative element due to its small size and high nuclear charge."
+  },
+  {
+    "question_text": "What is the IUPAC name of CH3-CH(OH)-CH3?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Propanol",
+      "2-Propanol",
+      "Isopropanol",
+      "1-Propanol"
+    ],
+    "correct_answer": "2-Propanol",
+    "topic": "Organic Chemistry",
+    "subject": "Chemistry",
+    "difficulty": "medium",
+    "year": 2021,
+    "explanation": "The OH group is on carbon 2, so it is 2-propanol. The prefix iso- refers to the same compound but is not the IUPAC name."
+  },
+  {
+    "question_text": "How many moles of HCl are needed to neutralize 2 moles of Ca(OH)2?",
+    "question_type": "multiple_choice",
+    "options": [
+      "1 mole",
+      "2 moles",
+      "3 moles",
+      "4 moles"
+    ],
+    "correct_answer": "4 moles",
+    "topic": "Stoichiometry",
+    "subject": "Chemistry",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "Ca(OH)2 has 2 OH- groups. Reaction: Ca(OH)2 + 2HCl → CaCl2 + 2H2O. So 2 moles of Ca(OH)2 requires 4 moles of HCl."
+  },
+  {
+    "question_text": "Which halogen has the lowest boiling point?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Fluorine",
+      "Chlorine",
+      "Bromine",
+      "Iodine"
+    ],
+    "correct_answer": "Fluorine",
+    "topic": "Halogens",
+    "subject": "Chemistry",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "Fluorine is a gas at room temperature with a boiling point of -188C. The boiling points increase down the group due to increased van der Waals forces."
+  },
+  {
+    "question_text": "What is the oxidation state of sulfur in SO4(2-)?",
+    "question_type": "multiple_choice",
+    "options": [
+      "+2",
+      "+4",
+      "+6",
+      "-2"
+    ],
+    "correct_answer": "+6",
+    "topic": "Redox",
+    "subject": "Chemistry",
+    "difficulty": "hard",
+    "year": 2023,
+    "explanation": "In SO4(2-), oxygen is -2. If S has oxidation state x: x + 4(-2) = -2, so x = +6."
+  },
+  {
+    "question_text": "Which of these is a weak acid?",
+    "question_type": "multiple_choice",
+    "options": [
+      "HCl",
+      "H2SO4",
+      "CH3COOH",
+      "HNO3"
+    ],
+    "correct_answer": "CH3COOH",
+    "topic": "Acids and Bases",
+    "subject": "Chemistry",
+    "difficulty": "medium",
+    "year": 2021,
+    "explanation": "Acetic acid (CH3COOH) only partially ionizes in water. HCl, H2SO4, and HNO3 are strong acids that completely ionize."
+  },
+  {
+    "question_text": "What is the pH of a 0.1 M HCl solution?",
+    "question_type": "multiple_choice",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_answer": "1",
+    "topic": "Acids and Bases",
+    "subject": "Chemistry",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "HCl is a strong acid and completely ionizes. H+ concentration = 0.1 M, so pH = 1."
+  },
+  {
+    "question_text": "Which statement about isotopes is correct?",
+    "question_type": "multiple_choice",
+    "options": [
+      "They have different atomic numbers",
+      "They have the same number of neutrons",
+      "They have different mass numbers",
+      "They have different numbers of protons"
+    ],
+    "correct_answer": "They have different mass numbers",
+    "topic": "Atomic Structure",
+    "subject": "Chemistry",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "Isotopes are atoms of the same element with different mass numbers (different numbers of neutrons). They have the same atomic number and number of protons."
+  },
+  {
+    "question_text": "What is the molar mass of Ca(OH)2?",
+    "question_type": "multiple_choice",
+    "options": [
+      "56 g/mol",
+      "60 g/mol",
+      "64 g/mol",
+      "74 g/mol"
+    ],
+    "correct_answer": "74 g/mol",
+    "topic": "Stoichiometry",
+    "subject": "Chemistry",
+    "difficulty": "easy",
+    "year": 2021,
+    "explanation": "Ca = 40, O = 16 (x2), H = 1 (x2). Total = 40 + (16x2) + (1x2) = 40 + 32 + 2 = 74 g/mol."
+  },
+  {
+    "question_text": "What is the hybridization of carbon in methane (CH4)?",
+    "question_type": "multiple_choice",
+    "options": [
+      "sp",
+      "sp2",
+      "sp3",
+      "sp3d"
+    ],
+    "correct_answer": "sp3",
+    "topic": "Organic Chemistry",
+    "subject": "Chemistry",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "In methane, carbon forms 4 sigma bonds with hydrogen atoms using sp3 hybridization."
+  },
+  {
+    "question_text": "Which element has a full d-orbital in its ground state?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Iron",
+      "Copper",
+      "Zinc",
+      "Nickel"
+    ],
+    "correct_answer": "Zinc",
+    "topic": "Transition Metals",
+    "subject": "Chemistry",
+    "difficulty": "hard",
+    "year": 2022,
+    "explanation": "Zinc (Zn) has the electron configuration [Ar] 3d10 4s2, with a completely filled d-orbital."
+  },
+  {
+    "question_text": "What is the shape of a molecule with 4 bonding pairs and no lone pairs?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Linear",
+      "Trigonal planar",
+      "Tetrahedral",
+      "Octahedral"
+    ],
+    "correct_answer": "Tetrahedral",
+    "topic": "Bonding",
+    "subject": "Chemistry",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "According to VSEPR theory, 4 bonding pairs with no lone pairs result in a tetrahedral shape with bond angles of 109.5 degrees."
+  },
+  {
+    "question_text": "Which of these compounds is an ester?",
+    "question_type": "multiple_choice",
+    "options": [
+      "CH3COOH",
+      "CH3COOC2H5",
+      "C2H5OH",
+      "CH3CH2CH3"
+    ],
+    "correct_answer": "CH3COOC2H5",
+    "topic": "Organic Chemistry",
+    "subject": "Chemistry",
+    "difficulty": "medium",
+    "year": 2021,
+    "explanation": "Ethyl acetate (CH3COOC2H5) is an ester formed from acetic acid and ethanol. Esters contain the R-CO-O-R group."
+  },
+  {
+    "question_text": "What is the general formula for alkanes?",
+    "question_type": "multiple_choice",
+    "options": [
+      "CnH2n",
+      "CnH2n+2",
+      "CnH2n-2",
+      "CnHn"
+    ],
+    "correct_answer": "CnH2n+2",
+    "topic": "Organic Chemistry",
+    "subject": "Chemistry",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "Alkanes are saturated hydrocarbons with the general formula CnH2n+2 (for non-cyclic alkanes)."
+  },
+  {
+    "question_text": "Which of the following undergoes addition reactions?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Alkanes",
+      "Alkenes",
+      "Cycloalkanes",
+      "Aromatic compounds"
+    ],
+    "correct_answer": "Alkenes",
+    "topic": "Organic Chemistry",
+    "subject": "Chemistry",
+    "difficulty": "medium",
+    "year": 2022,
+    "explanation": "Alkenes contain C=C double bonds which are easily broken to undergo addition reactions. Alkanes are relatively unreactive at room temperature."
+  },
+  {
+    "question_text": "Solve for x: 2x + 5 = 13",
+    "question_type": "multiple_choice",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "4",
+    "topic": "Algebra",
+    "subject": "Mathematics",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "Subtract 5 from both sides: 2x = 8. Divide by 2: x = 4."
+  },
+  {
+    "question_text": "What is the derivative of f(x) = 3x2 + 2x + 1?",
+    "question_type": "multiple_choice",
+    "options": [
+      "6x + 2",
+      "3x + 2",
+      "6x",
+      "6x + 1"
+    ],
+    "correct_answer": "6x + 2",
+    "topic": "Calculus",
+    "subject": "Mathematics",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "Using power rule: d/dx(3x2) = 6x, d/dx(2x) = 2, d/dx(1) = 0. Therefore f(x) = 6x + 2."
+  },
+  {
+    "question_text": "Find the sum of the series: 1 + 2 + 3 + ... + 100",
+    "question_type": "multiple_choice",
+    "options": [
+      "5000",
+      "5050",
+      "5100",
+      "5150"
+    ],
+    "correct_answer": "5050",
+    "topic": "Series",
+    "subject": "Mathematics",
+    "difficulty": "medium",
+    "year": 2022,
+    "explanation": "Using the formula n(n+1)/2 where n=100: 100(101)/2 = 10100/2 = 5050."
+  },
+  {
+    "question_text": "What is sin(30)?",
+    "question_type": "multiple_choice",
+    "options": [
+      "0.5",
+      "0.707",
+      "0.866",
+      "1"
+    ],
+    "correct_answer": "0.5",
+    "topic": "Trigonometry",
+    "subject": "Mathematics",
+    "difficulty": "easy",
+    "year": 2021,
+    "explanation": "sin(30 degrees) = 1/2 = 0.5. This is a standard angle value."
+  },
+  {
+    "question_text": "Solve the equation: x2 - 5x + 6 = 0",
+    "question_type": "multiple_choice",
+    "options": [
+      "x = 2, x = 3",
+      "x = 1, x = 6",
+      "x = -2, x = -3",
+      "x = 0, x = 5"
+    ],
+    "correct_answer": "x = 2, x = 3",
+    "topic": "Algebra",
+    "subject": "Mathematics",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "Factoring: (x - 2)(x - 3) = 0, so x = 2 or x = 3."
+  },
+  {
+    "question_text": "What is the inverse of the matrix [[2, 0], [0, 2]]?",
+    "question_type": "multiple_choice",
+    "options": [
+      "[[0.5, 0], [0, 0.5]]",
+      "[[2, 0], [0, 2]]",
+      "[[0.25, 0], [0, 0.25]]",
+      "[[1, 0], [0, 1]]"
+    ],
+    "correct_answer": "[[0.5, 0], [0, 0.5]]",
+    "topic": "Matrices",
+    "subject": "Mathematics",
+    "difficulty": "hard",
+    "year": 2023,
+    "explanation": "The determinant is 4. For a 2x2 matrix [[a,b],[c,d]], inverse is (1/det)[[d,-b],[-c,a]] = (1/4)[[2,0],[0,2]] = [[0.5,0],[0,0.5]]."
+  },
+  {
+    "question_text": "If log10(x) = 2, what is x?",
+    "question_type": "multiple_choice",
+    "options": [
+      "10",
+      "100",
+      "1000",
+      "0.01"
+    ],
+    "correct_answer": "100",
+    "topic": "Logarithms",
+    "subject": "Mathematics",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "If log10(x) = 2, then x = 10^2 = 100."
+  },
+  {
+    "question_text": "Find the limit: lim(x approaches 0) sin(x)/x",
+    "question_type": "multiple_choice",
+    "options": [
+      "0",
+      "1",
+      "infinity",
+      "-1"
+    ],
+    "correct_answer": "1",
+    "topic": "Calculus",
+    "subject": "Mathematics",
+    "difficulty": "hard",
+    "year": 2023,
+    "explanation": "This is a standard limit in calculus. The limit of sin(x)/x as x approaches 0 is 1."
+  },
+  {
+    "question_text": "What is the area of a circle with radius 5 cm?",
+    "question_type": "multiple_choice",
+    "options": [
+      "25π cm2",
+      "50π cm2",
+      "100π cm2",
+      "10π cm2"
+    ],
+    "correct_answer": "25π cm2",
+    "topic": "Geometry",
+    "subject": "Mathematics",
+    "difficulty": "easy",
+    "year": 2021,
+    "explanation": "Area = πr2 = π(5)2 = 25π cm2."
+  },
+  {
+    "question_text": "Solve: 3(x - 2) = 9",
+    "question_type": "multiple_choice",
+    "options": [
+      "x = 3",
+      "x = 5",
+      "x = 1",
+      "x = 7"
+    ],
+    "correct_answer": "x = 5",
+    "topic": "Algebra",
+    "subject": "Mathematics",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "Divide both sides by 3: x - 2 = 3. Add 2: x = 5."
+  },
+  {
+    "question_text": "What is the slope of the line 3x + 4y = 12?",
+    "question_type": "multiple_choice",
+    "options": [
+      "-3/4",
+      "3/4",
+      "-4/3",
+      "4/3"
+    ],
+    "correct_answer": "-3/4",
+    "topic": "Coordinate Geometry",
+    "subject": "Mathematics",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "Rewrite as 4y = -3x + 12, then y = -3/4 x + 3. The slope is -3/4."
+  },
+  {
+    "question_text": "What is cos(60)?",
+    "question_type": "multiple_choice",
+    "options": [
+      "0.5",
+      "0.707",
+      "0.866",
+      "1"
+    ],
+    "correct_answer": "0.5",
+    "topic": "Trigonometry",
+    "subject": "Mathematics",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "cos(60 degrees) = 1/2 = 0.5. This is a standard angle value."
+  },
+  {
+    "question_text": "Find the integral of f(x) = 2x",
+    "question_type": "multiple_choice",
+    "options": [
+      "x2 + C",
+      "2x2 + C",
+      "x2 + x + C",
+      "2x + C"
+    ],
+    "correct_answer": "x2 + C",
+    "topic": "Calculus",
+    "subject": "Mathematics",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "The integral of 2x is x2 + C (where C is the constant of integration)."
+  },
+  {
+    "question_text": "What is tan(45)?",
+    "question_type": "multiple_choice",
+    "options": [
+      "0",
+      "1",
+      "sqrt(3)",
+      "undefined"
+    ],
+    "correct_answer": "1",
+    "topic": "Trigonometry",
+    "subject": "Mathematics",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "tan(45 degrees) = 1. At 45 degrees, sin and cos are equal, so tan = 1."
+  },
+  {
+    "question_text": "Expand (a + b)2",
+    "question_type": "multiple_choice",
+    "options": [
+      "a2 + b2",
+      "a2 + 2ab + b2",
+      "a2 - b2",
+      "2a + 2b"
+    ],
+    "correct_answer": "a2 + 2ab + b2",
+    "topic": "Algebra",
+    "subject": "Mathematics",
+    "difficulty": "easy",
+    "year": 2021,
+    "explanation": "(a + b)2 = a2 + 2ab + b2. This is a basic algebraic identity."
+  },
+  {
+    "question_text": "What is the basic unit of life?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Atom",
+      "Molecule",
+      "Cell",
+      "Tissue"
+    ],
+    "correct_answer": "Cell",
+    "topic": "Cell Biology",
+    "subject": "Biology",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "The cell is the smallest unit of living matter and is considered the basic unit of life."
+  },
+  {
+    "question_text": "Which organelle is responsible for energy production?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Ribosome",
+      "Mitochondria",
+      "Golgi apparatus",
+      "Endoplasmic reticulum"
+    ],
+    "correct_answer": "Mitochondria",
+    "topic": "Cell Biology",
+    "subject": "Biology",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "Mitochondria is known as the powerhouse of the cell, producing ATP through aerobic respiration."
+  },
+  {
+    "question_text": "What process produces glucose from CO2 and H2O?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Respiration",
+      "Photosynthesis",
+      "Fermentation",
+      "Glycolysis"
+    ],
+    "correct_answer": "Photosynthesis",
+    "topic": "Photosynthesis",
+    "subject": "Biology",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "Photosynthesis is the process by which plants convert CO2 and H2O into glucose using light energy."
+  },
+  {
+    "question_text": "How many chromosomes does a human have?",
+    "question_type": "multiple_choice",
+    "options": [
+      "23",
+      "46",
+      "48",
+      "92"
+    ],
+    "correct_answer": "46",
+    "topic": "Genetics",
+    "subject": "Biology",
+    "difficulty": "easy",
+    "year": 2021,
+    "explanation": "Humans have 46 chromosomes (23 pairs). 22 pairs are autosomes and 1 pair is sex chromosomes."
+  },
+  {
+    "question_text": "What is the process by which cells divide to form gametes?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Binary fission",
+      "Budding"
+    ],
+    "correct_answer": "Meiosis",
+    "topic": "Genetics",
+    "subject": "Biology",
+    "difficulty": "medium",
+    "year": 2022,
+    "explanation": "Meiosis is the process of cell division that produces gametes (sperm and egg) with half the chromosome number."
+  },
+  {
+    "question_text": "Which of these is a polymer made of amino acids?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Carbohydrate",
+      "Lipid",
+      "Protein",
+      "Nucleic acid"
+    ],
+    "correct_answer": "Protein",
+    "topic": "Biochemistry",
+    "subject": "Biology",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "Proteins are polymers composed of amino acids linked by peptide bonds."
+  },
+  {
+    "question_text": "What is the pH of the human blood?",
+    "question_type": "multiple_choice",
+    "options": [
+      "6.5-7.0",
+      "7.0-7.4",
+      "7.4-7.8",
+      "8.0-8.5"
+    ],
+    "correct_answer": "7.4-7.8",
+    "topic": "Physiology",
+    "subject": "Biology",
+    "difficulty": "medium",
+    "year": 2022,
+    "explanation": "Normal human blood pH is approximately 7.35-7.45, which is slightly alkaline."
+  },
+  {
+    "question_text": "Which vessel carries oxygenated blood from the heart?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Vein",
+      "Artery",
+      "Capillary",
+      "Valve"
+    ],
+    "correct_answer": "Artery",
+    "topic": "Human Anatomy",
+    "subject": "Biology",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "Arteries carry oxygenated blood away from the heart. The main artery is the aorta."
+  },
+  {
+    "question_text": "What is the name of the fluid in the nucleus?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Cytoplasm",
+      "Nucleoplasm",
+      "Vacuole",
+      "Periplasm"
+    ],
+    "correct_answer": "Nucleoplasm",
+    "topic": "Cell Biology",
+    "subject": "Biology",
+    "difficulty": "medium",
+    "year": 2021,
+    "explanation": "Nucleoplasm is the fluid inside the nucleus that contains DNA and proteins."
+  },
+  {
+    "question_text": "Which enzyme breaks down starch?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Pepsin",
+      "Lipase",
+      "Amylase",
+      "Protease"
+    ],
+    "correct_answer": "Amylase",
+    "topic": "Digestion",
+    "subject": "Biology",
+    "difficulty": "medium",
+    "year": 2022,
+    "explanation": "Amylase is the enzyme that catalyzes the breakdown of starch into sugars. It is found in saliva and pancreatic secretions."
+  },
+  {
+    "question_text": "What is the product of photosynthesis?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Glucose and oxygen",
+      "Carbon dioxide and water",
+      "ATP and NADPH",
+      "Ethanol and carbon dioxide"
+    ],
+    "correct_answer": "Glucose and oxygen",
+    "topic": "Photosynthesis",
+    "subject": "Biology",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "Photosynthesis produces glucose (sugar) and oxygen from carbon dioxide and water using light energy."
+  },
+  {
+    "question_text": "Which blood type is the universal donor?",
+    "question_type": "multiple_choice",
+    "options": [
+      "AB",
+      "B",
+      "O",
+      "A"
+    ],
+    "correct_answer": "O",
+    "topic": "Human Physiology",
+    "subject": "Biology",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "O negative blood type is the universal donor because it lacks A and B antigens."
+  },
+  {
+    "question_text": "What is the SI unit of force?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Dyne",
+      "Newton",
+      "Joule",
+      "Watt"
+    ],
+    "correct_answer": "Newton",
+    "topic": "Mechanics",
+    "subject": "Physics",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "The Newton (N) is the SI unit of force. It is the force required to accelerate 1 kg at 1 m/s2."
+  },
+  {
+    "question_text": "What is the acceleration due to gravity on Earth?",
+    "question_type": "multiple_choice",
+    "options": [
+      "8.8 m/s2",
+      "9.8 m/s2",
+      "10.8 m/s2",
+      "11.8 m/s2"
+    ],
+    "correct_answer": "9.8 m/s2",
+    "topic": "Mechanics",
+    "subject": "Physics",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "The acceleration due to gravity (g) on Earth is approximately 9.8 m/s2 or 10 m/s2 (rounded)."
+  },
+  {
+    "question_text": "Which of these is a vector quantity?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Speed",
+      "Distance",
+      "Temperature",
+      "Velocity"
+    ],
+    "correct_answer": "Velocity",
+    "topic": "Kinematics",
+    "subject": "Physics",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "Velocity is a vector quantity as it has both magnitude and direction. Speed is a scalar quantity."
+  },
+  {
+    "question_text": "What is the wavelength of visible light?",
+    "question_type": "multiple_choice",
+    "options": [
+      "100-500 nm",
+      "400-700 nm",
+      "700-1000 nm",
+      "1000-1500 nm"
+    ],
+    "correct_answer": "400-700 nm",
+    "topic": "Optics",
+    "subject": "Physics",
+    "difficulty": "medium",
+    "year": 2021,
+    "explanation": "The visible light spectrum ranges from approximately 400 nm (violet) to 700 nm (red)."
+  },
+  {
+    "question_text": "What is the speed of light in vacuum?",
+    "question_type": "multiple_choice",
+    "options": [
+      "3e7 m/s",
+      "3e8 m/s",
+      "3e9 m/s",
+      "3e10 m/s"
+    ],
+    "correct_answer": "3e8 m/s",
+    "topic": "Wave Motion",
+    "subject": "Physics",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "The speed of light (c) in vacuum is approximately 3e8 m/s or 300,000 km/s."
+  },
+  {
+    "question_text": "Which law states that F = ma?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Newtons First Law",
+      "Newtons Second Law",
+      "Newtons Third Law",
+      "Coulombs Law"
+    ],
+    "correct_answer": "Newtons Second Law",
+    "topic": "Mechanics",
+    "subject": "Physics",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "Newtons Second Law of Motion states that the net force on an object equals its mass times acceleration (F = ma)."
+  },
+  {
+    "question_text": "What is the SI unit of electrical resistance?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Ampere",
+      "Volt",
+      "Ohm",
+      "Coulomb"
+    ],
+    "correct_answer": "Ohm",
+    "topic": "Electricity",
+    "subject": "Physics",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "The Ohm (Ω) is the SI unit of electrical resistance. 1 Ω = 1 V/A."
+  },
+  {
+    "question_text": "What type of lens converges light rays?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Concave",
+      "Convex",
+      "Prism",
+      "Plane"
+    ],
+    "correct_answer": "Convex",
+    "topic": "Optics",
+    "subject": "Physics",
+    "difficulty": "medium",
+    "year": 2021,
+    "explanation": "Convex lenses converge (bring together) light rays. Concave lenses diverge light rays."
+  },
+  {
+    "question_text": "What is the relationship between energy and frequency?",
+    "question_type": "multiple_choice",
+    "options": [
+      "E = hf",
+      "E = mc2",
+      "E = Pt",
+      "E = mgh"
+    ],
+    "correct_answer": "E = hf",
+    "topic": "Modern Physics",
+    "subject": "Physics",
+    "difficulty": "hard",
+    "year": 2023,
+    "explanation": "Plancks equation: E = hf, where E is energy, h is Plancks constant, and f is frequency."
+  },
+  {
+    "question_text": "What is the period of a simple pendulum with length 1 m?",
+    "question_type": "multiple_choice",
+    "options": [
+      "1 s",
+      "2 s",
+      "2π s",
+      "π s"
+    ],
+    "correct_answer": "2 s",
+    "topic": "Oscillations",
+    "subject": "Physics",
+    "difficulty": "medium",
+    "year": 2022,
+    "explanation": "Using T = 2π sqrt(L/g) with L = 1 m and g = 10 m/s2: T is approximately 2 s."
+  },
+  {
+    "question_text": "What does Ohms Law state?",
+    "question_type": "multiple_choice",
+    "options": [
+      "V = IR",
+      "P = IV",
+      "R = V/I",
+      "P = V2/R"
+    ],
+    "correct_answer": "V = IR",
+    "topic": "Electricity",
+    "subject": "Physics",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "Ohms Law states that voltage equals current times resistance: V = IR."
+  },
+  {
+    "question_text": "What is the SI unit of frequency?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Hertz",
+      "Decibel",
+      "Radian",
+      "Meter"
+    ],
+    "correct_answer": "Hertz",
+    "topic": "Wave Motion",
+    "subject": "Physics",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "The Hertz (Hz) is the SI unit of frequency, equal to one cycle per second."
+  },
+  {
+    "question_text": "What is the basic definition of economics?",
+    "question_type": "multiple_choice",
+    "options": [
+      "The study of money",
+      "The study of production, distribution, and consumption of goods and services",
+      "The study of poverty",
+      "The study of trading"
+    ],
+    "correct_answer": "The study of production, distribution, and consumption of goods and services",
+    "topic": "Fundamentals",
+    "subject": "Economics",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "Economics is the social science concerned with the production, distribution, and consumption of goods and services."
+  },
+  {
+    "question_text": "What does GDP stand for?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Gross Domestic Product",
+      "General Development Plan",
+      "Global Demand Problem",
+      "Government Demand Power"
+    ],
+    "correct_answer": "Gross Domestic Product",
+    "topic": "Macroeconomics",
+    "subject": "Economics",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "GDP is the total monetary value of all finished goods and services produced within a country in a specific period."
+  },
+  {
+    "question_text": "Which of these is a scarce resource?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Air",
+      "Land",
+      "Water",
+      "All of the above"
+    ],
+    "correct_answer": "Land",
+    "topic": "Resource Economics",
+    "subject": "Economics",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "Land is a limited natural resource. While air and water are abundant, they are becoming increasingly scarce in some areas."
+  },
+  {
+    "question_text": "What is inflation?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Increase in price levels",
+      "Decrease in price levels",
+      "Stable price levels",
+      "Zero price levels"
+    ],
+    "correct_answer": "Increase in price levels",
+    "topic": "Macroeconomics",
+    "subject": "Economics",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "Inflation is the rate at which the general level of prices for goods and services is rising."
+  },
+  {
+    "question_text": "What is the law of demand?",
+    "question_type": "multiple_choice",
+    "options": [
+      "As price increases, quantity demanded increases",
+      "As price decreases, quantity demanded decreases",
+      "As price increases, quantity demanded decreases",
+      "Price and demand are unrelated"
+    ],
+    "correct_answer": "As price increases, quantity demanded decreases",
+    "topic": "Microeconomics",
+    "subject": "Economics",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "The law of demand states that as the price of a good increases, the quantity demanded decreases, assuming all other factors remain constant."
+  },
+  {
+    "question_text": "What is opportunity cost?",
+    "question_type": "multiple_choice",
+    "options": [
+      "The cost of a product",
+      "The value of the next best alternative foregone",
+      "The total production cost",
+      "The selling price"
+    ],
+    "correct_answer": "The value of the next best alternative foregone",
+    "topic": "Fundamentals",
+    "subject": "Economics",
+    "difficulty": "medium",
+    "year": 2021,
+    "explanation": "Opportunity cost is the value of the best alternative that must be given up when choosing one option over another."
+  },
+  {
+    "question_text": "What is unemployment?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Not having a business",
+      "Not being employed and actively seeking work",
+      "Not working by choice",
+      "Retiring from work"
+    ],
+    "correct_answer": "Not being employed and actively seeking work",
+    "topic": "Labor Economics",
+    "subject": "Economics",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "Unemployment refers to the state of not having a job while actively seeking employment."
+  },
+  {
+    "question_text": "Which economic system relies on market forces?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Command economy",
+      "Mixed economy",
+      "Market economy",
+      "Planned economy"
+    ],
+    "correct_answer": "Market economy",
+    "topic": "Systems",
+    "subject": "Economics",
+    "difficulty": "medium",
+    "year": 2022,
+    "explanation": "In a market economy, prices and production are determined by supply and demand in free markets."
+  },
+  {
+    "question_text": "What is the definition of a monopoly?",
+    "question_type": "multiple_choice",
+    "options": [
+      "One seller with many buyers",
+      "Many sellers with one buyer",
+      "Many sellers and many buyers",
+      "Government control of prices"
+    ],
+    "correct_answer": "One seller with many buyers",
+    "topic": "Market Structures",
+    "subject": "Economics",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "A monopoly exists when there is only one seller of a product with no close substitutes."
+  },
+  {
+    "question_text": "What is fiscal policy?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Control of money supply",
+      "Government spending and taxation",
+      "Control of interest rates",
+      "International trade policy"
+    ],
+    "correct_answer": "Government spending and taxation",
+    "topic": "Macroeconomics",
+    "subject": "Economics",
+    "difficulty": "medium",
+    "year": 2021,
+    "explanation": "Fiscal policy involves government spending and taxation decisions to influence the economy."
+  },
+  {
+    "question_text": "What is the relationship between savings and investment?",
+    "question_type": "multiple_choice",
+    "options": [
+      "They are unrelated",
+      "Savings is used for investment",
+      "Investment leads to savings",
+      "They are opposites"
+    ],
+    "correct_answer": "Savings is used for investment",
+    "topic": "Finance",
+    "subject": "Economics",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "Savings are stored income that can be used for investment purposes."
+  },
+  {
+    "question_text": "What is comparative advantage?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Producing more than others",
+      "Producing at a lower opportunity cost",
+      "Having better technology",
+      "Being more efficient overall"
+    ],
+    "correct_answer": "Producing at a lower opportunity cost",
+    "topic": "International Trade",
+    "subject": "Economics",
+    "difficulty": "hard",
+    "year": 2022,
+    "explanation": "Comparative advantage refers to the ability to produce a good at a lower opportunity cost than another producer."
+  },
+  {
+    "question_text": "What does elasticity of demand measure?",
+    "question_type": "multiple_choice",
+    "options": [
+      "The change in price",
+      "The responsiveness of quantity demanded to price changes",
+      "The total demand in the market",
+      "The cost of production"
+    ],
+    "correct_answer": "The responsiveness of quantity demanded to price changes",
+    "topic": "Microeconomics",
+    "subject": "Economics",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "Elasticity of demand measures how sensitive the quantity demanded is to changes in price."
+  },
+  {
+    "question_text": "What is the poverty line?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A geographic boundary",
+      "A minimum income level for basic needs",
+      "A policy for poor people",
+      "A type of insurance"
+    ],
+    "correct_answer": "A minimum income level for basic needs",
+    "topic": "Development",
+    "subject": "Economics",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "The poverty line is the income level below which a person or family is considered to be in poverty."
+  },
+  {
+    "question_text": "What is recession?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A slight economic growth",
+      "A period of economic decline with negative GDP growth",
+      "An increase in inflation",
+      "Rising unemployment"
+    ],
+    "correct_answer": "A period of economic decline with negative GDP growth",
+    "topic": "Macroeconomics",
+    "subject": "Economics",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "A recession is a significant decline in economic activity, typically characterized by two consecutive quarters of negative GDP growth."
+  },
+  {
+    "question_text": "What is a government?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A business organization",
+      "A system of social organization exercising authority",
+      "A religious institution",
+      "An educational body"
+    ],
+    "correct_answer": "A system of social organization exercising authority",
+    "topic": "Fundamentals",
+    "subject": "Government",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "Government is the system or group of people that exercises authority and performs functions for the state."
+  },
+  {
+    "question_text": "What is democracy?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Rule by one person",
+      "Rule by a few people",
+      "Rule by the people through voting and representation",
+      "Rule by the military"
+    ],
+    "correct_answer": "Rule by the people through voting and representation",
+    "topic": "Systems",
+    "subject": "Government",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "Democracy is a system of government in which power is held by the people, either directly or through elected representatives."
+  },
+  {
+    "question_text": "What is the separation of powers?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Dividing power among executive, legislative, and judicial branches",
+      "Separating government from business",
+      "Dividing power between national and state governments",
+      "Separating military from civilian authority"
+    ],
+    "correct_answer": "Dividing power among executive, legislative, and judicial branches",
+    "topic": "Principles",
+    "subject": "Government",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "The separation of powers is the principle of dividing government authority among three branches to prevent concentration of power."
+  },
+  {
+    "question_text": "What is the executive branch?",
+    "question_type": "multiple_choice",
+    "options": [
+      "The branch that makes laws",
+      "The branch that enforces laws",
+      "The branch that interprets laws",
+      "The branch that collects taxes"
+    ],
+    "correct_answer": "The branch that enforces laws",
+    "topic": "Structure",
+    "subject": "Government",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "The executive branch is responsible for enforcing laws and is typically headed by a president or prime minister."
+  },
+  {
+    "question_text": "What is the legislative branch?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Makes laws",
+      "Enforces laws",
+      "Interprets laws",
+      "Collects revenue"
+    ],
+    "correct_answer": "Makes laws",
+    "topic": "Structure",
+    "subject": "Government",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "The legislative branch is responsible for making laws and typically consists of a parliament or congress."
+  },
+  {
+    "question_text": "What is the judicial branch?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Makes laws",
+      "Enforces laws",
+      "Interprets laws and administers justice",
+      "Collects taxes"
+    ],
+    "correct_answer": "Interprets laws and administers justice",
+    "topic": "Structure",
+    "subject": "Government",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "The judicial branch interprets laws and administers justice through the court system."
+  },
+  {
+    "question_text": "What is a constitution?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A law",
+      "The fundamental law or set of principles governing a state",
+      "A business plan",
+      "A treaty"
+    ],
+    "correct_answer": "The fundamental law or set of principles governing a state",
+    "topic": "Law",
+    "subject": "Government",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "A constitution is the supreme law that outlines the structure and powers of government and protects citizens rights."
+  },
+  {
+    "question_text": "What is authoritarianism?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Democratic rule",
+      "Rule by one or few with little accountability",
+      "Rule by the military",
+      "A form of monarchy"
+    ],
+    "correct_answer": "Rule by one or few with little accountability",
+    "topic": "Systems",
+    "subject": "Government",
+    "difficulty": "medium",
+    "year": 2021,
+    "explanation": "Authoritarianism is a form of government characterized by strong central power with limited individual freedoms and little democratic participation."
+  },
+  {
+    "question_text": "What is a federal system?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A system where all power is held centrally",
+      "A system where power is shared between national and regional governments",
+      "A system with a weak central government",
+      "A system run by the military"
+    ],
+    "correct_answer": "A system where power is shared between national and regional governments",
+    "topic": "Structure",
+    "subject": "Government",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "A federal system divides power between a central national government and regional/state governments."
+  },
+  {
+    "question_text": "What is civil society?",
+    "question_type": "multiple_choice",
+    "options": [
+      "The government",
+      "The collective non-governmental institutions",
+      "The military",
+      "Private businesses"
+    ],
+    "correct_answer": "The collective non-governmental institutions",
+    "topic": "Society",
+    "subject": "Government",
+    "difficulty": "medium",
+    "year": 2022,
+    "explanation": "Civil society consists of organizations and institutions outside the government, such as NGOs, charities, and community groups."
+  },
+  {
+    "question_text": "What is sovereignty?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Economic power",
+      "Military strength",
+      "The right to self-govern and make independent decisions",
+      "Political popularity"
+    ],
+    "correct_answer": "The right to self-govern and make independent decisions",
+    "topic": "International Relations",
+    "subject": "Government",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "Sovereignty is the right of a state to govern itself and make its own decisions without interference from external powers."
+  },
+  {
+    "question_text": "What is rule of law?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Rule by a king",
+      "Equal application of laws to all citizens",
+      "Rule by military",
+      "Rule by majority"
+    ],
+    "correct_answer": "Equal application of laws to all citizens",
+    "topic": "Principles",
+    "subject": "Government",
+    "difficulty": "medium",
+    "year": 2021,
+    "explanation": "Rule of law is the principle that everyone, including government officials, is subject to the law and treated equally."
+  },
+  {
+    "question_text": "What is human rights?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Rights granted by government",
+      "Basic freedoms and protections inherent to all people",
+      "Rights for wealthy people only",
+      "Rights granted by corporations"
+    ],
+    "correct_answer": "Basic freedoms and protections inherent to all people",
+    "topic": "Rights",
+    "subject": "Government",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "Human rights are fundamental rights and freedoms to which all people are entitled, such as life, liberty, and freedom of expression."
+  },
+  {
+    "question_text": "What is a political party?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A social gathering",
+      "An organization of people with similar political goals",
+      "A business",
+      "A religious group"
+    ],
+    "correct_answer": "An organization of people with similar political goals",
+    "topic": "Politics",
+    "subject": "Government",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "A political party is an organization of individuals united by common political beliefs and goals seeking political power."
+  },
+  {
+    "question_text": "What is voting?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A punishment",
+      "The democratic process of expressing choice in elections",
+      "A debate",
+      "A negotiation"
+    ],
+    "correct_answer": "The democratic process of expressing choice in elections",
+    "topic": "Democracy",
+    "subject": "Government",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "Voting is the method by which citizens participate in democracy by selecting leaders and policies."
+  },
+  {
+    "question_text": "What is a noun?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A word that describes an action",
+      "A word that names a person, place, thing, or idea",
+      "A word that describes a noun",
+      "A word that connects clauses"
+    ],
+    "correct_answer": "A word that names a person, place, thing, or idea",
+    "topic": "Grammar",
+    "subject": "English Language",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "A noun is a part of speech that names a person, place, thing, or idea."
+  },
+  {
+    "question_text": "What is a verb?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A word that names something",
+      "A word that describes a noun",
+      "A word that expresses an action or state of being",
+      "A word that connects ideas"
+    ],
+    "correct_answer": "A word that expresses an action or state of being",
+    "topic": "Grammar",
+    "subject": "English Language",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "A verb is a word that expresses an action, occurrence, or state of being."
+  },
+  {
+    "question_text": "What is an adjective?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A word that describes an action",
+      "A word that names something",
+      "A word that describes or modifies a noun",
+      "A word that replaces a noun"
+    ],
+    "correct_answer": "A word that describes or modifies a noun",
+    "topic": "Grammar",
+    "subject": "English Language",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "An adjective is a word that describes or modifies a noun by providing additional information about it."
+  },
+  {
+    "question_text": "What does metaphor mean?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A direct comparison using like or as",
+      "A comparison between two unlike things without using like or as",
+      "A repeated sound at the beginning of words",
+      "An extreme exaggeration"
+    ],
+    "correct_answer": "A comparison between two unlike things without using like or as",
+    "topic": "Literary Devices",
+    "subject": "English Language",
+    "difficulty": "medium",
+    "year": 2022,
+    "explanation": "A metaphor is a figure of speech that makes a direct comparison between two unlike things without using like or as."
+  },
+  {
+    "question_text": "What is a simile?",
+    "question_type": "multiple_choice",
+    "options": [
+      "An indirect comparison",
+      "A direct comparison using like or as",
+      "A type of poem",
+      "A descriptive phrase"
+    ],
+    "correct_answer": "A direct comparison using like or as",
+    "topic": "Literary Devices",
+    "subject": "English Language",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "A simile is a comparison between two unlike things using \"like\" or \"as\"."
+  },
+  {
+    "question_text": "What is the subject of a sentence?",
+    "question_type": "multiple_choice",
+    "options": [
+      "The action word",
+      "The person or thing performing the action or being described",
+      "The object receiving the action",
+      "The adjective in the sentence"
+    ],
+    "correct_answer": "The person or thing performing the action or being described",
+    "topic": "Grammar",
+    "subject": "English Language",
+    "difficulty": "easy",
+    "year": 2021,
+    "explanation": "The subject is the noun or pronoun that performs the action or is being described in the sentence."
+  },
+  {
+    "question_text": "What is the predicate of a sentence?",
+    "question_type": "multiple_choice",
+    "options": [
+      "The noun",
+      "The part that tells what the subject is or does",
+      "The adjective",
+      "The adverb"
+    ],
+    "correct_answer": "The part that tells what the subject is or does",
+    "topic": "Grammar",
+    "subject": "English Language",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "The predicate is the part of the sentence that tells what the subject is or does. It includes the verb and other words."
+  },
+  {
+    "question_text": "What is irony?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A serious statement",
+      "When the opposite of what is expected happens or is said",
+      "A funny joke",
+      "A sad statement"
+    ],
+    "correct_answer": "When the opposite of what is expected happens or is said",
+    "topic": "Literary Devices",
+    "subject": "English Language",
+    "difficulty": "medium",
+    "year": 2022,
+    "explanation": "Irony is the use of words to convey meaning that is opposite to or very different from the literal meaning."
+  },
+  {
+    "question_text": "What is a pronoun?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A word that names something",
+      "A word that replaces a noun",
+      "A word that describes",
+      "A word that shows action"
+    ],
+    "correct_answer": "A word that replaces a noun",
+    "topic": "Grammar",
+    "subject": "English Language",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "A pronoun is a word used to replace a noun in a sentence to avoid repetition."
+  },
+  {
+    "question_text": "What is an adverb?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A word that names something",
+      "A word that describes a noun",
+      "A word that describes a verb, adjective, or another adverb",
+      "A word that connects clauses"
+    ],
+    "correct_answer": "A word that describes a verb, adjective, or another adverb",
+    "topic": "Grammar",
+    "subject": "English Language",
+    "difficulty": "medium",
+    "year": 2022,
+    "explanation": "An adverb is a word that modifies a verb, adjective, or another adverb, usually indicating how, when, or where something happens."
+  },
+  {
+    "question_text": "What is a clause?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A group of words with no verb",
+      "A group of words with a subject and verb",
+      "A punctuation mark",
+      "A type of sentence"
+    ],
+    "correct_answer": "A group of words with a subject and verb",
+    "topic": "Grammar",
+    "subject": "English Language",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "A clause is a group of words that contains both a subject and a predicate verb."
+  },
+  {
+    "question_text": "What is alliteration?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A comparison",
+      "The repetition of the same sound at the beginning of nearby words",
+      "An exaggeration",
+      "A contrast"
+    ],
+    "correct_answer": "The repetition of the same sound at the beginning of nearby words",
+    "topic": "Literary Devices",
+    "subject": "English Language",
+    "difficulty": "medium",
+    "year": 2021,
+    "explanation": "Alliteration is the repetition of initial consonant sounds in nearby words."
+  },
+  {
+    "question_text": "What is personification?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Giving human qualities to non-human things",
+      "Comparing two things",
+      "Making something smaller",
+      "Naming a person"
+    ],
+    "correct_answer": "Giving human qualities to non-human things",
+    "topic": "Literary Devices",
+    "subject": "English Language",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "Personification is a literary device that gives human characteristics to non-human things."
+  },
+  {
+    "question_text": "What is a paragraph?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A single sentence",
+      "A group of related sentences about one idea",
+      "An entire essay",
+      "A word"
+    ],
+    "correct_answer": "A group of related sentences about one idea",
+    "topic": "Writing",
+    "subject": "English Language",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "A paragraph is a group of sentences that develop one main idea and are connected by a topic sentence."
+  },
+  {
+    "question_text": "What is the main idea of a text?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A detail in the story",
+      "The most important point the author wants to communicate",
+      "A supporting fact",
+      "A character description"
+    ],
+    "correct_answer": "The most important point the author wants to communicate",
+    "topic": "Reading",
+    "subject": "English Language",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "The main idea is the central point or message that the author wants to communicate to the reader."
+  },
+  {
+    "question_text": "What is an algorithm?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A computer program",
+      "A step-by-step procedure to solve a problem",
+      "A type of software",
+      "A hardware component"
+    ],
+    "correct_answer": "A step-by-step procedure to solve a problem",
+    "topic": "Fundamentals",
+    "subject": "Computer Science",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "An algorithm is a finite sequence of well-defined instructions to solve a problem or perform a task."
+  },
+  {
+    "question_text": "What is binary?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A programming language",
+      "A number system using 0 and 1",
+      "A type of software",
+      "A network protocol"
+    ],
+    "correct_answer": "A number system using 0 and 1",
+    "topic": "Data",
+    "subject": "Computer Science",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "Binary is the base-2 number system that uses only the digits 0 and 1. It is the fundamental language of computers."
+  },
+  {
+    "question_text": "What is a variable?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A fixed value",
+      "A named container that stores a value",
+      "A programming error",
+      "A type of loop"
+    ],
+    "correct_answer": "A named container that stores a value",
+    "topic": "Programming",
+    "subject": "Computer Science",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "A variable is a named storage location that holds a value which can change during program execution."
+  },
+  {
+    "question_text": "What is a loop?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A circular road",
+      "A programming construct that repeats code",
+      "An error in code",
+      "A network connection"
+    ],
+    "correct_answer": "A programming construct that repeats code",
+    "topic": "Programming",
+    "subject": "Computer Science",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "A loop is a control structure that repeats a block of code until a condition is met."
+  },
+  {
+    "question_text": "What is a conditional statement?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A loop",
+      "A statement that executes code based on whether a condition is true or false",
+      "A variable",
+      "An output statement"
+    ],
+    "correct_answer": "A statement that executes code based on whether a condition is true or false",
+    "topic": "Programming",
+    "subject": "Computer Science",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "A conditional statement (if/else) executes different code depending on whether a condition is true or false."
+  },
+  {
+    "question_text": "What is a function?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A loop",
+      "A reusable block of code that performs a specific task",
+      "A variable",
+      "A database"
+    ],
+    "correct_answer": "A reusable block of code that performs a specific task",
+    "topic": "Programming",
+    "subject": "Computer Science",
+    "difficulty": "medium",
+    "year": 2021,
+    "explanation": "A function is a self-contained block of code that performs a specific task and can be called multiple times."
+  },
+  {
+    "question_text": "What is a data structure?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A programming language",
+      "A way of organizing and storing data efficiently",
+      "A database",
+      "A network protocol"
+    ],
+    "correct_answer": "A way of organizing and storing data efficiently",
+    "topic": "Data Structures",
+    "subject": "Computer Science",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "A data structure is a specialized format for organizing, processing, and storing data."
+  },
+  {
+    "question_text": "What is an array?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A single value",
+      "An ordered collection of elements stored in contiguous memory",
+      "A database table",
+      "A network"
+    ],
+    "correct_answer": "An ordered collection of elements stored in contiguous memory",
+    "topic": "Data Structures",
+    "subject": "Computer Science",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "An array is a data structure that stores a fixed-size sequential collection of elements of the same type."
+  },
+  {
+    "question_text": "What is HTML?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A programming language",
+      "HyperText Markup Language used to create web pages",
+      "A database",
+      "A network protocol"
+    ],
+    "correct_answer": "HyperText Markup Language used to create web pages",
+    "topic": "Web",
+    "subject": "Computer Science",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "HTML is a markup language used to create web pages by defining the structure and content."
+  },
+  {
+    "question_text": "What is CSS?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A programming language",
+      "Cascading Style Sheets used to style web pages",
+      "A database",
+      "A server"
+    ],
+    "correct_answer": "Cascading Style Sheets used to style web pages",
+    "topic": "Web",
+    "subject": "Computer Science",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "CSS is used to describe how HTML elements should be displayed, controlling layout, colors, fonts, and more."
+  },
+  {
+    "question_text": "What is debugging?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Creating a program",
+      "Finding and fixing errors in code",
+      "Writing documentation",
+      "Compiling code"
+    ],
+    "correct_answer": "Finding and fixing errors in code",
+    "topic": "Programming",
+    "subject": "Computer Science",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "Debugging is the process of finding and correcting errors (bugs) in computer programs."
+  },
+  {
+    "question_text": "What is encryption?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A programming language",
+      "Converting data into a code to prevent unauthorized access",
+      "A database",
+      "A network"
+    ],
+    "correct_answer": "Converting data into a code to prevent unauthorized access",
+    "topic": "Security",
+    "subject": "Computer Science",
+    "difficulty": "medium",
+    "year": 2021,
+    "explanation": "Encryption is the process of encoding information in such a way that only authorized parties can decode it."
+  },
+  {
+    "question_text": "What is a server?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A computer",
+      "A computer that provides resources or services to other computers",
+      "A type of software",
+      "A network cable"
+    ],
+    "correct_answer": "A computer that provides resources or services to other computers",
+    "topic": "Networks",
+    "subject": "Computer Science",
+    "difficulty": "easy",
+    "year": 2023,
+    "explanation": "A server is a computer system that provides resources, data, or services to other computers (clients) over a network."
+  },
+  {
+    "question_text": "What is the internet?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A computer",
+      "A global system of interconnected networks",
+      "A software",
+      "A type of data"
+    ],
+    "correct_answer": "A global system of interconnected networks",
+    "topic": "Networks",
+    "subject": "Computer Science",
+    "difficulty": "easy",
+    "year": 2022,
+    "explanation": "The internet is a global system of interconnected computer networks that enables communication and information sharing worldwide."
+  },
+  {
+    "question_text": "What is a database?",
+    "question_type": "multiple_choice",
+    "options": [
+      "A file",
+      "An organized collection of structured data stored and accessed electronically",
+      "A spreadsheet",
+      "A document"
+    ],
+    "correct_answer": "An organized collection of structured data stored and accessed electronically",
+    "topic": "Databases",
+    "subject": "Computer Science",
+    "difficulty": "medium",
+    "year": 2023,
+    "explanation": "A database is an organized collection of structured data that can be easily accessed, managed, and updated."
+  },
+  {
+    "question_text": "The compound Na2CO3.10H2O loses water and becomes Na2CO3. What is the percentage loss in mass?",
+    "question_type": "multiple_choice",
+    "options": [
+      "36%",
+      "46%",
+      "56%",
+      "62%"
+    ],
+    "correct_answer": "62%",
+    "topic": "Stoichiometry",
+    "subject": "Chemistry",
+    "difficulty": "hard",
+    "year": 2015,
+    "explanation": "Molar mass Na2CO3 = 106, 10H2O = 180. Total = 286. Loss = 180/286 = 62.9%"
+  },
+  {
+    "question_text": "Which of these elements shows variable oxidation states?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Sodium",
+      "Magnesium",
+      "Iron",
+      "Aluminum"
+    ],
+    "correct_answer": "Iron",
+    "topic": "Oxidation States",
+    "subject": "Chemistry",
+    "difficulty": "medium",
+    "year": 2015,
+    "explanation": "Iron exhibits multiple oxidation states (+2 and +3), unlike the other elements listed."
+  },
+  {
+    "question_text": "What volume of 0.5 M HCl is needed to neutralize 50 mL of 0.2 M NaOH?",
+    "question_type": "multiple_choice",
+    "options": [
+      "10 mL",
+      "20 mL",
+      "30 mL",
+      "40 mL"
+    ],
+    "correct_answer": "20 mL",
+    "topic": "Acid-Base Titration",
+    "subject": "Chemistry",
+    "difficulty": "medium",
+    "year": 2019,
+    "explanation": "Using M1V1 = M2V2: 0.5 x V = 0.2 x 50; V = 20 mL"
+  },
+  {
+    "question_text": "Which structure represents a primary alcohol?",
+    "question_type": "multiple_choice",
+    "options": [
+      "CH3-CH2-CH2-OH",
+      "(CH3)2CHOH",
+      "(CH3)3COH",
+      "CH3-CHO"
+    ],
+    "correct_answer": "CH3-CH2-CH2-OH",
+    "topic": "Organic Chemistry",
+    "subject": "Chemistry",
+    "difficulty": "medium",
+    "year": 2019,
+    "explanation": "Primary alcohols have the OH group on a carbon with two hydrogen atoms (terminal carbon)."
+  },
+  {
+    "question_text": "What is the IUPAC name of (CH3)3C-OH?",
+    "question_type": "multiple_choice",
+    "options": [
+      "2-Methylpropan-1-ol",
+      "2-Methylpropan-2-ol",
+      "1-Methylpropan-2-ol",
+      "Trimethylmethanol"
+    ],
+    "correct_answer": "2-Methylpropan-2-ol",
+    "topic": "Organic Chemistry",
+    "subject": "Chemistry",
+    "difficulty": "hard",
+    "year": 2019,
+    "explanation": "The OH group is on carbon 2, making it a secondary alcohol with a methyl branch."
+  },
+  {
+    "question_text": "Which compound shows optical isomerism?",
+    "question_type": "multiple_choice",
+    "options": [
+      "CHCl3",
+      "CH3-CHCl-CH3",
+      "CH3-CHOH-COOH",
+      "CH2=CH2"
+    ],
+    "correct_answer": "CH3-CHOH-COOH",
+    "topic": "Isomerism",
+    "subject": "Chemistry",
+    "difficulty": "hard",
+    "year": 2019,
+    "explanation": "This compound has a chiral center (the carbon with 4 different groups attached)."
+  },
+  {
+    "question_text": "What is the pH of a buffer solution containing equal molar amounts of CH3COOH and CH3COONa?",
+    "question_type": "multiple_choice",
+    "options": [
+      "3.74",
+      "4.74",
+      "5.74",
+      "6.74"
+    ],
+    "correct_answer": "4.74",
+    "topic": "Buffers",
+    "subject": "Chemistry",
+    "difficulty": "hard",
+    "year": 2019,
+    "explanation": "Using Henderson-Hasselbalch: pH = pKa + log([A-]/[HA]) = 4.74 + 0 = 4.74"
+  },
+  {
+    "question_text": "Which gas is produced when CuO reacts with hydrogen?",
+    "question_type": "multiple_choice",
+    "options": [
+      "O2",
+      "H2O",
+      "Cu(OH)2",
+      "CuH"
+    ],
+    "correct_answer": "H2O",
+    "topic": "Redox Reactions",
+    "subject": "Chemistry",
+    "difficulty": "easy",
+    "year": 2015,
+    "explanation": "CuO + H2 → Cu + H2O. Water is the only product besides copper metal."
+  },
+  {
+    "question_text": "What is the empirical formula if a compound contains 40% C, 6.67% H, and 53.33% O?",
+    "question_type": "multiple_choice",
+    "options": [
+      "CH2O",
+      "C2H4O2",
+      "CH3O2",
+      "C3H6O3"
+    ],
+    "correct_answer": "CH2O",
+    "topic": "Stoichiometry",
+    "subject": "Chemistry",
+    "difficulty": "hard",
+    "year": 2019,
+    "explanation": "Molar ratios: C:H:O = 3.33:6.67:3.33 = 1:2:1 = CH2O"
+  },
+  {
+    "question_text": "Which of these has the highest boiling point?",
+    "question_type": "multiple_choice",
+    "options": [
+      "CH4",
+      "H2O",
+      "NH3",
+      "HF"
+    ],
+    "correct_answer": "H2O",
+    "topic": "Intermolecular Forces",
+    "subject": "Chemistry",
+    "difficulty": "medium",
+    "year": 2015,
+    "explanation": "Water has extensive hydrogen bonding leading to the highest boiling point among these."
+  },
+  {
+    "question_text": "The equilibrium constant for a reaction is 100. What does this indicate?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Forward reaction is favored",
+      "Reverse reaction is favored",
+      "Equal amounts of reactants and products",
+      "The reaction does not proceed"
+    ],
+    "correct_answer": "Forward reaction is favored",
+    "topic": "Equilibrium",
+    "subject": "Chemistry",
+    "difficulty": "medium",
+    "year": 2019,
+    "explanation": "K > 1 indicates the forward reaction is favored at equilibrium."
+  },
+  {
+    "question_text": "What is the electron configuration of Cl- ion?",
+    "question_type": "multiple_choice",
+    "options": [
+      "[Ne]3s2 3p5",
+      "[Ne]3s2 3p6",
+      "[Ar]",
+      "[He]2s2 2p6"
+    ],
+    "correct_answer": "[Ne]3s2 3p6",
+    "topic": "Atomic Structure",
+    "subject": "Chemistry",
+    "difficulty": "medium",
+    "year": 2015,
+    "explanation": "Chlorine has 17 electrons. Adding one electron gives 18 electrons = [Ne]3s2 3p6 = [Ar]"
+  },
+  {
+    "question_text": "Which type of bonding occurs in SiO2?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Ionic",
+      "Covalent (network)",
+      "Metallic",
+      "Coordinate covalent"
+    ],
+    "correct_answer": "Covalent (network)",
+    "topic": "Bonding",
+    "subject": "Chemistry",
+    "difficulty": "medium",
+    "year": 2019,
+    "explanation": "SiO2 has a continuous network of Si-O-Si bonds throughout the structure."
+  },
+  {
+    "question_text": "What is the main product when benzene undergoes nitration?",
+    "question_type": "multiple_choice",
+    "options": [
+      "2-Nitrobenzene",
+      "Nitrobenzene",
+      "1,3-Dinitrobenzene",
+      "4-Nitrobenzene"
+    ],
+    "correct_answer": "Nitrobenzene",
+    "topic": "Aromatic Chemistry",
+    "subject": "Chemistry",
+    "difficulty": "medium",
+    "year": 2019,
+    "explanation": "Nitration of benzene produces nitrobenzene (C6H5NO2) as the main product."
+  },
+  {
+    "question_text": "How many mL of 0.1 M AgNO3 is needed to precipitate all chloride ions in 50 mL of 0.1 M NaCl?",
+    "question_type": "multiple_choice",
+    "options": [
+      "25 mL",
+      "50 mL",
+      "75 mL",
+      "100 mL"
+    ],
+    "correct_answer": "50 mL",
+    "topic": "Precipitation",
+    "subject": "Chemistry",
+    "difficulty": "medium",
+    "year": 2019,
+    "explanation": "Reaction: Ag+ + Cl- → AgCl. Moles are equal, so 50 mL of 0.1 M AgNO3 is needed."
+  },
+  {
+    "question_text": "If a = 2, b = 3, and c = 5, find the value of a plus b multiplied by c.",
+    "question_type": "multiple_choice",
+    "options": [
+      "25",
+      "125",
+      "50",
+      "75"
+    ],
+    "correct_answer": "25",
+    "topic": "Algebra",
+    "subject": "Mathematics",
+    "difficulty": "easy",
+    "year": 2015,
+    "explanation": "a + b times c = 2 + 3 times 5 = 2 + 15 = 17. Using order of operations: (2 + 3) x 5 = 5 x 5 = 25"
+  },
+  {
+    "question_text": "Solve: x2 + 7x + 10 = 0",
+    "question_type": "multiple_choice",
+    "options": [
+      "x = -2 or x = -5",
+      "x = 2 or x = 5",
+      "x = -2 or x = 5",
+      "x = 2 or x = -5"
+    ],
+    "correct_answer": "x = -2 or x = -5",
+    "topic": "Quadratic Equations",
+    "subject": "Mathematics",
+    "difficulty": "easy",
+    "year": 2015,
+    "explanation": "Factoring: (x + 2)(x + 5) = 0, so x = -2 or x = -5"
+  },
+  {
+    "question_text": "What is the sum of the interior angles of a hexagon?",
+    "question_type": "multiple_choice",
+    "options": [
+      "720 degrees",
+      "900 degrees",
+      "1080 degrees",
+      "1200 degrees"
+    ],
+    "correct_answer": "720 degrees",
+    "topic": "Geometry",
+    "subject": "Mathematics",
+    "difficulty": "easy",
+    "year": 2015,
+    "explanation": "Sum = (n-2) times 180 degrees = (6-2) times 180 = 4 times 180 = 720 degrees"
+  },
+  {
+    "question_text": "If sin(theta) = 0.6 and cos(theta) = 0.8, find tan(theta).",
+    "question_type": "multiple_choice",
+    "options": [
+      "0.5",
+      "0.6",
+      "0.75",
+      "1"
+    ],
+    "correct_answer": "0.75",
+    "topic": "Trigonometry",
+    "subject": "Mathematics",
+    "difficulty": "easy",
+    "year": 2019,
+    "explanation": "tan(theta) = sin(theta)/cos(theta) = 0.6/0.8 = 0.75"
+  },
+  {
+    "question_text": "Find the 10th term of the arithmetic sequence 3, 7, 11, 15, ...",
+    "question_type": "multiple_choice",
+    "options": [
+      "39",
+      "40",
+      "43",
+      "47"
+    ],
+    "correct_answer": "39",
+    "topic": "Sequences",
+    "subject": "Mathematics",
+    "difficulty": "medium",
+    "year": 2019,
+    "explanation": "a = 3, d = 4. an = a + (n-1)d = 3 + 9(4) = 3 + 36 = 39"
+  },
+  {
+    "question_text": "What is the sum of the first 20 terms of the sequence 2, 4, 6, 8, ...?",
+    "question_type": "multiple_choice",
+    "options": [
+      "200",
+      "420",
+      "440",
+      "460"
+    ],
+    "correct_answer": "420",
+    "topic": "Series",
+    "subject": "Mathematics",
+    "difficulty": "medium",
+    "year": 2019,
+    "explanation": "Sum = n/2(first + last) = 20/2(2 + 40) = 10 times 42 = 420"
+  },
+  {
+    "question_text": "If f(x) = 2x + 3, what is f(5)?",
+    "question_type": "multiple_choice",
+    "options": [
+      "10",
+      "12",
+      "13",
+      "15"
+    ],
+    "correct_answer": "13",
+    "topic": "Functions",
+    "subject": "Mathematics",
+    "difficulty": "easy",
+    "year": 2015,
+    "explanation": "f(5) = 2 times 5 + 3 = 10 + 3 = 13"
+  },
+  {
+    "question_text": "Solve for x: 3x - 5 = 16",
+    "question_type": "multiple_choice",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct_answer": "7",
+    "topic": "Linear Equations",
+    "subject": "Mathematics",
+    "difficulty": "easy",
+    "year": 2015,
+    "explanation": "3x = 21, so x = 7"
+  },
+  {
+    "question_text": "What is the value of log10(100)?",
+    "question_type": "multiple_choice",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "10"
+    ],
+    "correct_answer": "2",
+    "topic": "Logarithms",
+    "subject": "Mathematics",
+    "difficulty": "easy",
+    "year": 2019,
+    "explanation": "log10(100) = log10(10 to the power 2) = 2"
+  },
+  {
+    "question_text": "If a matrix A has dimensions 3x4 and matrix B has dimensions 4x2, what are the dimensions of AB?",
+    "question_type": "multiple_choice",
+    "options": [
+      "3x2",
+      "3x4",
+      "4x2",
+      "12x8"
+    ],
+    "correct_answer": "3x2",
+    "topic": "Matrices",
+    "subject": "Mathematics",
+    "difficulty": "medium",
+    "year": 2019,
+    "explanation": "When multiplying matrices, the resulting matrix has dimensions (rows of A) times (columns of B) = 3x2"
+  },
+  {
+    "question_text": "How many base pairs are approximately in the human genome?",
+    "question_type": "multiple_choice",
+    "options": [
+      "3 million",
+      "3 billion",
+      "30 billion",
+      "300 billion"
+    ],
+    "correct_answer": "3 billion",
+    "topic": "Genetics",
+    "subject": "Biology",
+    "difficulty": "medium",
+    "year": 2015,
+    "explanation": "The human genome contains approximately 3 billion base pairs."
+  },
+  {
+    "question_text": "What is the primary function of mitochondria?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Protein synthesis",
+      "Energy production",
+      "Photosynthesis",
+      "DNA replication"
+    ],
+    "correct_answer": "Energy production",
+    "topic": "Cell Biology",
+    "subject": "Biology",
+    "difficulty": "easy",
+    "year": 2015,
+    "explanation": "Mitochondria produce ATP through cellular respiration, providing energy for the cell."
+  },
+  {
+    "question_text": "Which enzyme breaks down proteins?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Amylase",
+      "Lipase",
+      "Protease",
+      "Maltase"
+    ],
+    "correct_answer": "Protease",
+    "topic": "Digestion",
+    "subject": "Biology",
+    "difficulty": "medium",
+    "year": 2015,
+    "explanation": "Proteases are enzymes that catalyze the breakdown of proteins into amino acids."
+  },
+  {
+    "question_text": "What is the structure of DNA?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Single helix",
+      "Double helix",
+      "Triple helix",
+      "No defined structure"
+    ],
+    "correct_answer": "Double helix",
+    "topic": "Genetics",
+    "subject": "Biology",
+    "difficulty": "easy",
+    "year": 2015,
+    "explanation": "DNA has a double helix structure consisting of two complementary strands wound together."
+  },
+  {
+    "question_text": "How many pairs of chromosomes do humans have?",
+    "question_type": "multiple_choice",
+    "options": [
+      "23",
+      "46",
+      "48",
+      "92"
+    ],
+    "correct_answer": "23",
+    "topic": "Genetics",
+    "subject": "Biology",
+    "difficulty": "easy",
+    "year": 2015,
+    "explanation": "Humans have 23 pairs (46 total) chromosomes. Each pair consists of homologous chromosomes."
+  },
+  {
+    "question_text": "What is the difference between mitosis and meiosis?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Both produce identical cells",
+      "Mitosis produces 2 identical cells; meiosis produces 4 unique cells",
+      "Mitosis produces 4 cells; meiosis produces 2",
+      "They are the same"
+    ],
+    "correct_answer": "Mitosis produces 2 identical cells; meiosis produces 4 unique cells",
+    "topic": "Cell Division",
+    "subject": "Biology",
+    "difficulty": "medium",
+    "year": 2015,
+    "explanation": "Mitosis creates two identical daughter cells for growth. Meiosis creates four genetically different gametes."
+  },
+  {
+    "question_text": "What is photosynthesis?",
+    "question_type": "multiple_choice",
+    "options": [
+      "Breakdown of glucose for energy",
+      "Synthesis of glucose using light energy",
+      "Breakdown of starch",
+      "Production of CO2"
+    ],
+    "correct_answer": "Synthesis of glucose using light energy",
+    "topic": "Plant Biology",
+    "subject": "Biology",
+    "difficulty": "easy",
+    "year": 2015,
+    "explanation": "Photosynthesis is the process where plants use light energy to synthesize glucose from CO2 and H2O."
+  },
+  {
+    "question_text": "A car travels 100 km in 2 hours. What is its average speed?",
+    "question_type": "multiple_choice",
+    "options": [
+      "25 km/h",
+      "50 km/h",
+      "75 km/h",
+      "100 km/h"
+    ],
+    "correct_answer": "50 km/h",
+    "topic": "Kinematics",
+    "subject": "Physics",
+    "difficulty": "easy",
+    "year": 2019,
+    "explanation": "Average speed = distance/time = 100 km / 2 h = 50 km/h"
+  },
+  {
+    "question_text": "What is the force exerted on a 10 kg mass accelerating at 5 m/s2?",
+    "question_type": "multiple_choice",
+    "options": [
+      "2 N",
+      "15 N",
+      "50 N",
+      "100 N"
+    ],
+    "correct_answer": "50 N",
+    "topic": "Mechanics",
+    "subject": "Physics",
+    "difficulty": "easy",
+    "year": 2020,
+    "explanation": "F = ma = 10 kg times 5 m/s2 = 50 N"
+  },
+  {
+    "question_text": "A ball is thrown vertically upward with initial velocity 20 m/s. What is its maximum height?",
+    "question_type": "multiple_choice",
+    "options": [
+      "10 m",
+      "15 m",
+      "20 m",
+      "25 m"
+    ],
+    "correct_answer": "20 m",
+    "topic": "Kinematics",
+    "subject": "Physics",
+    "difficulty": "medium",
+    "year": 2019,
+    "explanation": "Using v2 = u2 - 2gh; at max height v = 0; h = u2/2g = 400/20 = 20 m"
+  },
+  {
+    "question_text": "What is the momentum of a 5 kg object moving at 4 m/s?",
+    "question_type": "multiple_choice",
+    "options": [
+      "10 kg-m/s",
+      "15 kg-m/s",
+      "20 kg-m/s",
+      "25 kg-m/s"
+    ],
+    "correct_answer": "20 kg-m/s",
+    "topic": "Mechanics",
+    "subject": "Physics",
+    "difficulty": "easy",
+    "year": 2020,
+    "explanation": "Momentum = mass times velocity = 5 kg times 4 m/s = 20 kg-m/s"
+  },
+  {
+    "question_text": "Calculate the work done when a force of 50 N moves an object 10 m in the direction of force.",
+    "question_type": "multiple_choice",
+    "options": [
+      "100 J",
+      "200 J",
+      "500 J",
+      "1000 J"
+    ],
+    "correct_answer": "500 J",
+    "topic": "Energy",
+    "subject": "Physics",
+    "difficulty": "easy",
+    "year": 2019,
+    "explanation": "Work = Force times distance = 50 N times 10 m = 500 J"
+  },
+  {
+    "question_text": "What is the kinetic energy of a 2 kg object moving at 6 m/s?",
+    "question_type": "multiple_choice",
+    "options": [
+      "12 J",
+      "24 J",
+      "36 J",
+      "48 J"
+    ],
+    "correct_answer": "36 J",
+    "topic": "Energy",
+    "subject": "Physics",
+    "difficulty": "easy",
+    "year": 2020,
+    "explanation": "KE = 1/2 times m times v2 = 1/2 times 2 times 36 = 36 J"
+  },
+  {
+    "question_text": "A resistor has 2 A of current flowing through it with 10 V potential difference. What is the resistance?",
+    "question_type": "multiple_choice",
+    "options": [
+      "2 ohms",
+      "5 ohms",
+      "10 ohms",
+      "20 ohms"
+    ],
+    "correct_answer": "5 ohms",
+    "topic": "Electricity",
+    "subject": "Physics",
+    "difficulty": "easy",
+    "year": 2020,
+    "explanation": "R = V/I = 10 V / 2 A = 5 ohms"
+  },
+  {
+    "question_text": "What is the power dissipated in a 10 ohm resistor with 2 A current?",
+    "question_type": "multiple_choice",
+    "options": [
+      "20 W",
+      "40 W",
+      "60 W",
+      "80 W"
+    ],
+    "correct_answer": "40 W",
+    "topic": "Electricity",
+    "subject": "Physics",
+    "difficulty": "medium",
+    "year": 2020,
+    "explanation": "P = I2 times R = (2)2 times 10 = 4 times 10 = 40 W"
+  },
+  {
+    "question_text": "If a light wave has frequency 5e14 Hz, what is its wavelength?",
+    "question_type": "multiple_choice",
+    "options": [
+      "300 nm",
+      "400 nm",
+      "600 nm",
+      "700 nm"
+    ],
+    "correct_answer": "600 nm",
+    "topic": "Wave Motion",
+    "subject": "Physics",
+    "difficulty": "hard",
+    "year": 2019,
+    "explanation": "c = lambda times nu; lambda = c/nu = (3e8)/(5e14) = 6e-7 m = 600 nm"
+  },
+  {
+    "question_text": "What is the focal length of a convex lens with power 5 diopters?",
+    "question_type": "multiple_choice",
+    "options": [
+      "0.1 m",
+      "0.2 m",
+      "0.5 m",
+      "2 m"
+    ],
+    "correct_answer": "0.2 m",
+    "topic": "Optics",
+    "subject": "Physics",
+    "difficulty": "medium",
+    "year": 2020,
+    "explanation": "Power = 1/f; f = 1/5 = 0.2 m"
+  }
+]
